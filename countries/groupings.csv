@@ -1,0 +1,138 @@
+iso,name,UNDP 52,All developing,LIC,LMC,UMC,MIC,HIC,LDC,SIDS,IMF,AE,EM,LIDC,Poorest (IDS eligible),HIPC,South Asia,Europe & Central Asia,Middle East & North Africa,East Asia & Pacific,Latin America & Caribbean,Sub-Saharan Africa,North America,iso,LIC,LMC,UMC,MIC,HIC,LDC,SIDS,IMF,AE,EM,LIDC,Poorest (IDS eligible),HIPC,South Asia,Europe & Central Asia,Middle East & North Africa,East Asia & Pacific,Latin America & Caribbean,Sub-Saharan Africa,North America,Income Group,Region,Lending category,Other groups
+AFG,Afghanistan,1,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,1,1,0,0,0,0,0,0,AFG,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,South Asia,,,,,,,Low income,South Asia,IDA,HIPC
+ALB,Albania,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,1,0,0,0,0,0,ALB,,,UMC,MIC,,,,,,EM,,,,,Europe & Central Asia,,,,,,Upper middle income,Europe & Central Asia,IBRD,
+DZA,Algeria,0,1,0,1,0,1,0,0,0,EM,0,1,0,0,0,0,0,1,0,0,0,0,DZA,,LMC,,MIC,,,,,,EM,,,,,,Middle East & North Africa,,,,,Lower middle income,Middle East & North Africa,IBRD,
+ASM,American Samoa,0,1,0,0,1,1,0,0,0,..,0,0,0,0,0,0,0,0,1,0,0,0,ASM,,,UMC,MIC,,,,,,,,,,,,,East Asia & Pacific,,,,Upper middle income,East Asia & Pacific,,
+AGO,Angola,0,1,0,1,0,1,0,1,0,EM,0,1,0,0,0,0,0,0,0,0,1,0,AGO,,LMC,,MIC,,LDC,,,,EM,,,,,,,,,Sub-Saharan Africa,,Lower middle income,Sub-Saharan Africa,IBRD,
+ARG,Argentina,1,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,0,0,0,1,0,0,ARG,,,UMC,MIC,,,,,,EM,,,,,,,,Latin America & Caribbean,,,Upper middle income,Latin America & Caribbean,IBRD,
+ARM,Armenia,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,1,0,0,0,0,0,ARM,,,UMC,MIC,,,,,,EM,,,,,Europe & Central Asia,,,,,,Upper middle income,Europe & Central Asia,IBRD,
+AZE,Azerbaijan,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,1,0,0,0,0,0,AZE,,,UMC,MIC,,,,,,EM,,,,,Europe & Central Asia,,,,,,Upper middle income,Europe & Central Asia,IBRD,
+BGD,Bangladesh,0,1,0,1,0,1,0,1,0,LIDC,0,0,1,1,0,1,0,0,0,0,0,0,BGD,,LMC,,MIC,,LDC,,,,,LIDC,Poorest (IDS eligible),,South Asia,,,,,,,Lower middle income,South Asia,IDA,
+BLR,Belarus,1,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,1,0,0,0,0,0,BLR,,,UMC,MIC,,,,,,EM,,,,,Europe & Central Asia,,,,,,Upper middle income,Europe & Central Asia,IBRD,
+BLZ,Belize,1,1,0,0,1,1,0,0,1,EM,0,1,0,0,0,0,0,0,0,1,0,0,BLZ,,,UMC,MIC,,,SIDS,,,EM,,,,,,,,Latin America & Caribbean,,,Upper middle income,Latin America & Caribbean,IBRD,
+BEN,Benin,0,1,0,1,0,1,0,0,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,BEN,,LMC,,MIC,,,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Lower middle income,Sub-Saharan Africa,IDA,HIPC
+BTN,Bhutan,0,1,0,1,0,1,0,1,0,LIDC,0,0,1,1,0,1,0,0,0,0,0,0,BTN,,LMC,,MIC,,LDC,,,,,LIDC,Poorest (IDS eligible),,South Asia,,,,,,,Lower middle income,South Asia,IDA,
+BOL,Bolivia,0,1,0,1,0,1,0,0,0,EM,0,1,0,0,1,0,0,0,0,1,0,0,BOL,,LMC,,MIC,,,,,,EM,,,HIPC,,,,,Latin America & Caribbean,,,Lower middle income,Latin America & Caribbean,IBRD,HIPC
+BIH,Bosnia and Herzegovina,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,1,0,0,0,0,0,BIH,,,UMC,MIC,,,,,,EM,,,,,Europe & Central Asia,,,,,,Upper middle income,Europe & Central Asia,IBRD,
+BWA,Botswana,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,0,0,0,0,1,0,BWA,,,UMC,MIC,,,,,,EM,,,,,,,,,Sub-Saharan Africa,,Upper middle income,Sub-Saharan Africa,IBRD,
+BRA,Brazil,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,0,0,0,1,0,0,BRA,,,UMC,MIC,,,,,,EM,,,,,,,,Latin America & Caribbean,,,Upper middle income,Latin America & Caribbean,IBRD,
+BGR,Bulgaria,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,1,0,0,0,0,0,BGR,,,UMC,MIC,,,,,,EM,,,,,Europe & Central Asia,,,,,,Upper middle income,Europe & Central Asia,IBRD,
+BFA,Burkina Faso,1,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,BFA,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+BDI,Burundi,1,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,BDI,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+CPV,Cabo Verde,0,1,0,1,0,1,0,0,1,EM,0,1,0,1,0,0,0,0,0,0,1,0,CPV,,LMC,,MIC,,,SIDS,,,EM,,Poorest (IDS eligible),,,,,,,Sub-Saharan Africa,,Lower middle income,Sub-Saharan Africa,Blend,
+KHM,Cambodia,0,1,0,1,0,1,0,1,0,LIDC,0,0,1,1,0,0,0,0,1,0,0,0,KHM,,LMC,,MIC,,LDC,,,,,LIDC,Poorest (IDS eligible),,,,,East Asia & Pacific,,,,Lower middle income,East Asia & Pacific,IDA,
+CMR,Cameroon,0,1,0,1,0,1,0,0,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,CMR,,LMC,,MIC,,,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Lower middle income,Sub-Saharan Africa,Blend,HIPC
+CAF,Central African Republic,1,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,CAF,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+TCD,Chad,1,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,TCD,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+CHN,China,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,0,0,1,0,0,0,CHN,,,UMC,MIC,,,,,,EM,,,,,,,East Asia & Pacific,,,,Upper middle income,East Asia & Pacific,IBRD,
+COL,Colombia,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,0,0,0,1,0,0,COL,,,UMC,MIC,,,,,,EM,,,,,,,,Latin America & Caribbean,,,Upper middle income,Latin America & Caribbean,IBRD,
+COM,Comoros,1,1,0,1,0,1,0,1,1,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,COM,,LMC,,MIC,,LDC,SIDS,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Lower middle income,Sub-Saharan Africa,IDA,HIPC
+COD,"Congo, Dem. Rep.",0,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,COD,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+COG,"Congo, Rep.",1,1,0,1,0,1,0,0,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,COG,,LMC,,MIC,,,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Lower middle income,Sub-Saharan Africa,Blend,HIPC
+CRI,Costa Rica,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,0,0,0,1,0,0,CRI,,,UMC,MIC,,,,,,EM,,,,,,,,Latin America & Caribbean,,,Upper middle income,Latin America & Caribbean,IBRD,
+CIV,Côte d'Ivoire,0,1,0,1,0,1,0,0,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,CIV,,LMC,,MIC,,,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Lower middle income,Sub-Saharan Africa,IDA,HIPC
+CUB,Cuba,0,1,0,0,1,1,0,0,1,..,0,0,0,0,0,0,0,0,0,1,0,0,CUB,,,UMC,MIC,,,SIDS,,,,,,,,,,,Latin America & Caribbean,,,Upper middle income,Latin America & Caribbean,,
+DJI,Djibouti,1,1,0,1,0,1,0,1,0,LIDC,0,0,1,1,0,0,0,1,0,0,0,0,DJI,,LMC,,MIC,,LDC,,,,,LIDC,Poorest (IDS eligible),,,,Middle East & North Africa,,,,,Lower middle income,Middle East & North Africa,IDA,
+DMA,Dominica,1,1,0,0,1,1,0,0,1,EM,0,1,0,1,0,0,0,0,0,1,0,0,DMA,,,UMC,MIC,,,SIDS,,,EM,,Poorest (IDS eligible),,,,,,Latin America & Caribbean,,,Upper middle income,Latin America & Caribbean,Blend,
+DOM,Dominican Republic,0,1,0,0,1,1,0,0,1,EM,0,1,0,0,0,0,0,0,0,1,0,0,DOM,,,UMC,MIC,,,SIDS,,,EM,,,,,,,,Latin America & Caribbean,,,Upper middle income,Latin America & Caribbean,IBRD,
+ECU,Ecuador,1,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,0,0,0,1,0,0,ECU,,,UMC,MIC,,,,,,EM,,,,,,,,Latin America & Caribbean,,,Upper middle income,Latin America & Caribbean,IBRD,
+EGY,"Egypt, Arab Rep.",0,1,0,1,0,1,0,0,0,EM,0,1,0,0,0,0,0,1,0,0,0,0,EGY,,LMC,,MIC,,,,,,EM,,,,,,Middle East & North Africa,,,,,Lower middle income,Middle East & North Africa,IBRD,
+SLV,El Salvador,1,1,0,1,0,1,0,0,0,EM,0,1,0,0,0,0,0,0,0,1,0,0,SLV,,LMC,,MIC,,,,,,EM,,,,,,,,Latin America & Caribbean,,,Lower middle income,Latin America & Caribbean,IBRD,
+GNQ,Equatorial Guinea,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,0,0,0,0,1,0,GNQ,,,UMC,MIC,,,,,,EM,,,,,,,,,Sub-Saharan Africa,,Upper middle income,Sub-Saharan Africa,IBRD,
+ERI,Eritrea,0,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,0,0,0,0,0,0,1,0,ERI,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+SWZ,Eswatini,0,1,0,1,0,1,0,0,0,EM,0,1,0,0,0,0,0,0,0,0,1,0,SWZ,,LMC,,MIC,,,,,,EM,,,,,,,,,Sub-Saharan Africa,,Lower middle income,Sub-Saharan Africa,IBRD,
+ETH,Ethiopia,1,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,ETH,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+FJI,Fiji,0,1,0,0,1,1,0,0,1,EM,0,1,0,1,0,0,0,0,1,0,0,0,FJI,,,UMC,MIC,,,SIDS,,,EM,,Poorest (IDS eligible),,,,,East Asia & Pacific,,,,Upper middle income,East Asia & Pacific,Blend,
+GAB,Gabon,1,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,0,0,0,0,1,0,GAB,,,UMC,MIC,,,,,,EM,,,,,,,,,Sub-Saharan Africa,,Upper middle income,Sub-Saharan Africa,IBRD,
+GMB,"Gambia, The",1,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,GMB,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+GEO,Georgia,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,1,0,0,0,0,0,GEO,,,UMC,MIC,,,,,,EM,,,,,Europe & Central Asia,,,,,,Upper middle income,Europe & Central Asia,IBRD,
+GHA,Ghana,1,1,0,1,0,1,0,0,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,GHA,,LMC,,MIC,,,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Lower middle income,Sub-Saharan Africa,IDA,HIPC
+GRD,Grenada,1,1,0,0,1,1,0,0,1,EM,0,1,0,1,0,0,0,0,0,1,0,0,GRD,,,UMC,MIC,,,SIDS,,,EM,,Poorest (IDS eligible),,,,,,Latin America & Caribbean,,,Upper middle income,Latin America & Caribbean,Blend,
+GTM,Guatemala,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,0,0,0,1,0,0,GTM,,,UMC,MIC,,,,,,EM,,,,,,,,Latin America & Caribbean,,,Upper middle income,Latin America & Caribbean,IBRD,
+GIN,Guinea,0,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,GIN,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+GNB,Guinea-Bissau,1,1,1,0,0,0,0,1,1,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,GNB,LIC,,,,,LDC,SIDS,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+GUY,Guyana,0,1,0,0,1,1,0,0,1,EM,0,1,0,1,1,0,0,0,0,1,0,0,GUY,,,UMC,MIC,,,SIDS,,,EM,,Poorest (IDS eligible),HIPC,,,,,Latin America & Caribbean,,,Upper middle income,Latin America & Caribbean,IDA,HIPC
+HTI,Haiti,1,1,0,1,0,1,0,1,1,LIDC,0,0,1,1,1,0,0,0,0,1,0,0,HTI,,LMC,,MIC,,LDC,SIDS,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,Latin America & Caribbean,,,Lower middle income,Latin America & Caribbean,IDA,HIPC
+HND,Honduras,0,1,0,1,0,1,0,0,0,LIDC,0,0,1,1,1,0,0,0,0,1,0,0,HND,,LMC,,MIC,,,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,Latin America & Caribbean,,,Lower middle income,Latin America & Caribbean,IDA,HIPC
+IND,India,0,1,0,1,0,1,0,0,0,EM,0,1,0,0,0,1,0,0,0,0,0,0,IND,,LMC,,MIC,,,,,,EM,,,,South Asia,,,,,,,Lower middle income,South Asia,IBRD,
+IDN,Indonesia,0,1,0,1,0,1,0,0,0,EM,0,1,0,0,0,0,0,0,1,0,0,0,IDN,,LMC,,MIC,,,,,,EM,,,,,,,East Asia & Pacific,,,,Lower middle income,East Asia & Pacific,IBRD,
+IRN,"Iran, Islamic Rep.",0,1,0,1,0,1,0,0,0,EM,0,1,0,0,0,0,0,1,0,0,0,0,IRN,,LMC,,MIC,,,,,,EM,,,,,,Middle East & North Africa,,,,,Lower middle income,Middle East & North Africa,IBRD,
+IRQ,Iraq,1,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,0,1,0,0,0,0,IRQ,,,UMC,MIC,,,,,,EM,,,,,,Middle East & North Africa,,,,,Upper middle income,Middle East & North Africa,IBRD,
+JAM,Jamaica,0,1,0,0,1,1,0,0,1,EM,0,1,0,0,0,0,0,0,0,1,0,0,JAM,,,UMC,MIC,,,SIDS,,,EM,,,,,,,,Latin America & Caribbean,,,Upper middle income,Latin America & Caribbean,IBRD,
+JOR,Jordan,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,0,1,0,0,0,0,JOR,,,UMC,MIC,,,,,,EM,,,,,,Middle East & North Africa,,,,,Upper middle income,Middle East & North Africa,IBRD,
+KAZ,Kazakhstan,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,1,0,0,0,0,0,KAZ,,,UMC,MIC,,,,,,EM,,,,,Europe & Central Asia,,,,,,Upper middle income,Europe & Central Asia,IBRD,
+KEN,Kenya,0,1,0,1,0,1,0,0,0,LIDC,0,0,1,1,0,0,0,0,0,0,1,0,KEN,,LMC,,MIC,,,,,,,LIDC,Poorest (IDS eligible),,,,,,,Sub-Saharan Africa,,Lower middle income,Sub-Saharan Africa,Blend,
+KIR,Kiribati,1,1,0,1,0,1,0,1,1,LIDC,0,0,1,1,0,0,0,0,1,0,0,0,KIR,,LMC,,MIC,,LDC,SIDS,,,,LIDC,Poorest (IDS eligible),,,,,East Asia & Pacific,,,,Lower middle income,East Asia & Pacific,IDA,
+PRK,"Korea, Dem. People's Rep.",0,1,1,0,0,0,0,0,0,..,0,0,0,0,0,0,0,0,1,0,0,0,PRK,LIC,,,,,,,,,,,,,,,,East Asia & Pacific,,,,Low income,East Asia & Pacific,,
+XKX,Kosovo,0,1,0,0,1,1,0,0,0,EM,0,1,0,1,0,0,1,0,0,0,0,0,XKX,,,UMC,MIC,,,,,,EM,,Poorest (IDS eligible),,,Europe & Central Asia,,,,,,Upper middle income,Europe & Central Asia,IDA,
+KGZ,Kyrgyz Republic,0,1,0,1,0,1,0,0,0,LIDC,0,0,1,1,0,0,1,0,0,0,0,0,KGZ,,LMC,,MIC,,,,,,,LIDC,Poorest (IDS eligible),,,Europe & Central Asia,,,,,,Lower middle income,Europe & Central Asia,IDA,HIPC
+LAO,Lao PDR,1,1,0,1,0,1,0,1,0,LIDC,0,0,1,1,0,0,0,0,1,0,0,0,LAO,,LMC,,MIC,,LDC,,,,,LIDC,Poorest (IDS eligible),,,,,East Asia & Pacific,,,,Lower middle income,East Asia & Pacific,IDA,
+LBN,Lebanon,1,1,0,1,0,1,0,0,0,EM,0,1,0,0,0,0,0,1,0,0,0,0,LBN,,LMC,,MIC,,,,,,EM,,,,,,Middle East & North Africa,,,,,Lower middle income,Middle East & North Africa,IBRD,
+LSO,Lesotho,0,1,0,1,0,1,0,1,0,LIDC,0,0,1,1,0,0,0,0,0,0,1,0,LSO,,LMC,,MIC,,LDC,,,,,LIDC,Poorest (IDS eligible),,,,,,,Sub-Saharan Africa,,Lower middle income,Sub-Saharan Africa,IDA,
+LBR,Liberia,0,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,LBR,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+LBY,Libya,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,0,1,0,0,0,0,LBY,,,UMC,MIC,,,,,,EM,,,,,,Middle East & North Africa,,,,,Upper middle income,Middle East & North Africa,IBRD,
+MDG,Madagascar,0,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,MDG,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+MWI,Malawi,1,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,MWI,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+MYS,Malaysia,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,0,0,1,0,0,0,MYS,,,UMC,MIC,,,,,,EM,,,,,,,East Asia & Pacific,,,,Upper middle income,East Asia & Pacific,IBRD,
+MDV,Maldives,1,1,0,0,1,1,0,0,1,EM,0,1,0,1,0,1,0,0,0,0,0,0,MDV,,,UMC,MIC,,,SIDS,,,EM,,Poorest (IDS eligible),,South Asia,,,,,,,Upper middle income,South Asia,IDA,
+MLI,Mali,1,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,MLI,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+MHL,Marshall Islands,1,1,0,0,1,1,0,0,1,EM,0,1,0,1,0,0,0,0,1,0,0,0,MHL,,,UMC,MIC,,,SIDS,,,EM,,Poorest (IDS eligible),,,,,East Asia & Pacific,,,,Upper middle income,East Asia & Pacific,IDA,
+MRT,Mauritania,1,1,0,1,0,1,0,1,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,MRT,,LMC,,MIC,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Lower middle income,Sub-Saharan Africa,IDA,HIPC
+MUS,Mauritius,0,1,0,0,1,1,0,0,1,EM,0,1,0,0,0,0,0,0,0,0,1,0,MUS,,,UMC,MIC,,,SIDS,,,EM,,,,,,,,,Sub-Saharan Africa,,Upper middle income,Sub-Saharan Africa,IBRD,
+MEX,Mexico,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,0,0,0,1,0,0,MEX,,,UMC,MIC,,,,,,EM,,,,,,,,Latin America & Caribbean,,,Upper middle income,Latin America & Caribbean,IBRD,
+FSM,Micronesia,1,1,0,1,0,1,0,0,1,EM,0,1,0,1,0,0,0,0,1,0,0,0,FSM,,LMC,,MIC,,,SIDS,,,EM,,Poorest (IDS eligible),,,,,East Asia & Pacific,,,,Lower middle income,East Asia & Pacific,IDA,
+MDA,Moldova,0,1,0,0,1,1,0,0,0,LIDC,0,0,1,0,0,0,1,0,0,0,0,0,MDA,,,UMC,MIC,,,,,,,LIDC,,,,Europe & Central Asia,,,,,,Upper middle income,Europe & Central Asia,IBRD,
+MNG,Mongolia,0,1,0,1,0,1,0,0,0,EM,0,1,0,0,0,0,0,0,1,0,0,0,MNG,,LMC,,MIC,,,,,,EM,,,,,,,East Asia & Pacific,,,,Lower middle income,East Asia & Pacific,IBRD,
+MNE,Montenegro,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,1,0,0,0,0,0,MNE,,,UMC,MIC,,,,,,EM,,,,,Europe & Central Asia,,,,,,Upper middle income,Europe & Central Asia,IBRD,
+MAR,Morocco,0,1,0,1,0,1,0,0,0,EM,0,1,0,0,0,0,0,1,0,0,0,0,MAR,,LMC,,MIC,,,,,,EM,,,,,,Middle East & North Africa,,,,,Lower middle income,Middle East & North Africa,IBRD,
+MOZ,Mozambique,1,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,MOZ,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+MMR,Myanmar,0,1,0,1,0,1,0,1,0,LIDC,0,0,1,1,0,0,0,0,1,0,0,0,MMR,,LMC,,MIC,,LDC,,,,,LIDC,Poorest (IDS eligible),,,,,East Asia & Pacific,,,,Lower middle income,East Asia & Pacific,IDA,
+NAM,Namibia,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,0,0,0,0,1,0,NAM,,,UMC,MIC,,,,,,EM,,,,,,,,,Sub-Saharan Africa,,Upper middle income,Sub-Saharan Africa,IBRD,
+NPL,Nepal,0,1,0,1,0,1,0,1,0,LIDC,0,0,1,1,0,1,0,0,0,0,0,0,NPL,,LMC,,MIC,,LDC,,,,,LIDC,Poorest (IDS eligible),,South Asia,,,,,,,Lower middle income,South Asia,IDA,
+NIC,Nicaragua,0,1,0,1,0,1,0,0,0,LIDC,0,0,1,1,1,0,0,0,0,1,0,0,NIC,,LMC,,MIC,,,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,Latin America & Caribbean,,,Lower middle income,Latin America & Caribbean,IDA,HIPC
+NER,Niger,0,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,NER,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+NGA,Nigeria,1,1,0,1,0,1,0,0,0,LIDC,0,0,1,1,0,0,0,0,0,0,1,0,NGA,,LMC,,MIC,,,,,,,LIDC,Poorest (IDS eligible),,,,,,,Sub-Saharan Africa,,Lower middle income,Sub-Saharan Africa,Blend,
+MKD,North Macedonia,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,1,0,0,0,0,0,MKD,,,UMC,MIC,,,,,,EM,,,,,Europe & Central Asia,,,,,,Upper middle income,Europe & Central Asia,IBRD,
+PAK,Pakistan,1,1,0,1,0,1,0,0,0,EM,0,1,0,1,0,1,0,0,0,0,0,0,PAK,,LMC,,MIC,,,,,,EM,,Poorest (IDS eligible),,South Asia,,,,,,,Lower middle income,South Asia,Blend,
+PLW,Palau,0,1,0,0,1,1,0,0,1,EM,0,1,0,0,0,0,0,0,1,0,0,0,PLW,,,UMC,MIC,,,SIDS,,,EM,,,,,,,East Asia & Pacific,,,,Upper middle income,East Asia & Pacific,IBRD,
+PNG,Papua New Guinea,0,1,0,1,0,1,0,0,1,LIDC,0,0,1,1,0,0,0,0,1,0,0,0,PNG,,LMC,,MIC,,,SIDS,,,,LIDC,Poorest (IDS eligible),,,,,East Asia & Pacific,,,,Lower middle income,East Asia & Pacific,Blend,
+PRY,Paraguay,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,0,0,0,1,0,0,PRY,,,UMC,MIC,,,,,,EM,,,,,,,,Latin America & Caribbean,,,Upper middle income,Latin America & Caribbean,IBRD,
+PER,Peru,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,0,0,0,1,0,0,PER,,,UMC,MIC,,,,,,EM,,,,,,,,Latin America & Caribbean,,,Upper middle income,Latin America & Caribbean,IBRD,
+PHL,Philippines,0,1,0,1,0,1,0,0,0,EM,0,1,0,0,0,0,0,0,1,0,0,0,PHL,,LMC,,MIC,,,,,,EM,,,,,,,East Asia & Pacific,,,,Lower middle income,East Asia & Pacific,IBRD,
+RUS,Russian Federation,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,1,0,0,0,0,0,RUS,,,UMC,MIC,,,,,,EM,,,,,Europe & Central Asia,,,,,,Upper middle income,Europe & Central Asia,IBRD,
+RWA,Rwanda,0,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,RWA,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+WSM,Samoa,1,1,0,1,0,1,0,0,1,EM,0,1,0,1,0,0,0,0,1,0,0,0,WSM,,LMC,,MIC,,,SIDS,,,EM,,Poorest (IDS eligible),,,,,East Asia & Pacific,,,,Lower middle income,East Asia & Pacific,IDA,
+STP,São Tomé and Principe,1,1,0,1,0,1,0,1,1,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,STP,,LMC,,MIC,,LDC,SIDS,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Lower middle income,Sub-Saharan Africa,IDA,HIPC
+SEN,Senegal,0,1,0,1,0,1,0,1,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,SEN,,LMC,,MIC,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Lower middle income,Sub-Saharan Africa,IDA,HIPC
+SRB,Serbia,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,1,0,0,0,0,0,SRB,,,UMC,MIC,,,,,,EM,,,,,Europe & Central Asia,,,,,,Upper middle income,Europe & Central Asia,IBRD,
+SLE,Sierra Leone,1,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,SLE,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+SLB,Solomon Islands,1,1,0,1,0,1,0,1,1,LIDC,0,0,1,1,0,0,0,0,1,0,0,0,SLB,,LMC,,MIC,,LDC,SIDS,,,,LIDC,Poorest (IDS eligible),,,,,East Asia & Pacific,,,,Lower middle income,East Asia & Pacific,IDA,
+SOM,Somalia,1,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,0,0,0,0,0,0,1,0,SOM,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+ZAF,South Africa,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,0,0,0,0,1,0,ZAF,,,UMC,MIC,,,,,,EM,,,,,,,,,Sub-Saharan Africa,,Upper middle income,Sub-Saharan Africa,IBRD,
+SSD,South Sudan,1,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,0,0,0,0,0,0,1,0,SSD,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,
+LKA,Sri Lanka,1,1,0,1,0,1,0,0,0,EM,0,1,0,1,0,1,0,0,0,0,0,0,LKA,,LMC,,MIC,,,,,,EM,,Poorest (IDS eligible),,South Asia,,,,,,,Lower middle income,South Asia,IDA,
+LCA,St. Lucia,0,1,0,0,1,1,0,0,1,EM,0,1,0,1,0,0,0,0,0,1,0,0,LCA,,,UMC,MIC,,,SIDS,,,EM,,Poorest (IDS eligible),,,,,,Latin America & Caribbean,,,Upper middle income,Latin America & Caribbean,Blend,
+VCT,St. Vincent and the Grenadines,0,1,0,0,1,1,0,0,0,EM,0,1,0,1,0,0,0,0,0,1,0,0,VCT,,,UMC,MIC,,,,,,EM,,Poorest (IDS eligible),,,,,,Latin America & Caribbean,,,Upper middle income,Latin America & Caribbean,Blend,
+SDN,Sudan,1,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,0,0,0,0,0,0,1,0,SDN,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+SUR,Suriname,1,1,0,0,1,1,0,0,1,EM,0,1,0,0,0,0,0,0,0,1,0,0,SUR,,,UMC,MIC,,,SIDS,,,EM,,,,,,,,Latin America & Caribbean,,,Upper middle income,Latin America & Caribbean,IBRD,
+SYR,Syrian Arab Republic,0,1,1,0,0,0,0,0,0,..,0,0,0,1,0,0,0,1,0,0,0,0,SYR,LIC,,,,,,,,,,,Poorest (IDS eligible),,,,Middle East & North Africa,,,,,Low income,Middle East & North Africa,IDA,
+TJK,Tajikistan,1,1,0,1,0,1,0,0,0,LIDC,0,0,1,1,0,0,1,0,0,0,0,0,TJK,,LMC,,MIC,,,,,,,LIDC,Poorest (IDS eligible),,,Europe & Central Asia,,,,,,Lower middle income,Europe & Central Asia,IDA,
+TZA,Tanzania,0,1,0,1,0,1,0,1,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,TZA,,LMC,,MIC,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Lower middle income,Sub-Saharan Africa,IDA,HIPC
+THA,Thailand,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,0,0,1,0,0,0,THA,,,UMC,MIC,,,,,,EM,,,,,,,East Asia & Pacific,,,,Upper middle income,East Asia & Pacific,IBRD,
+TLS,Timor-Leste,0,1,0,1,0,1,0,1,1,LIDC,0,0,1,1,0,0,0,0,1,0,0,0,TLS,,LMC,,MIC,,LDC,SIDS,,,,LIDC,Poorest (IDS eligible),,,,,East Asia & Pacific,,,,Lower middle income,East Asia & Pacific,Blend,
+TGO,Togo,0,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,TGO,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+TON,Tonga,1,1,0,0,1,1,0,0,1,EM,0,1,0,1,0,0,0,0,1,0,0,0,TON,,,UMC,MIC,,,SIDS,,,EM,,Poorest (IDS eligible),,,,,East Asia & Pacific,,,,Upper middle income,East Asia & Pacific,IDA,
+TUN,Tunisia,1,1,0,1,0,1,0,0,0,EM,0,1,0,0,0,0,0,1,0,0,0,0,TUN,,LMC,,MIC,,,,,,EM,,,,,,Middle East & North Africa,,,,,Lower middle income,Middle East & North Africa,IBRD,
+TUR,Türkiye,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,1,0,0,0,0,0,TUR,,,UMC,MIC,,,,,,EM,,,,,Europe & Central Asia,,,,,,Upper middle income,Europe & Central Asia,IBRD,
+TKM,Turkmenistan,0,1,0,0,1,1,0,0,0,EM,0,1,0,0,0,0,1,0,0,0,0,0,TKM,,,UMC,MIC,,,,,,EM,,,,,Europe & Central Asia,,,,,,Upper middle income,Europe & Central Asia,IBRD,
+TUV,Tuvalu,1,1,0,0,1,1,0,1,1,EM,0,1,0,1,0,0,0,0,1,0,0,0,TUV,,,UMC,MIC,,LDC,SIDS,,,EM,,Poorest (IDS eligible),,,,,East Asia & Pacific,,,,Upper middle income,East Asia & Pacific,IDA,
+UGA,Uganda,0,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,UGA,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+UKR,Ukraine,1,1,0,1,0,1,0,0,0,EM,0,1,0,0,0,0,1,0,0,0,0,0,UKR,,LMC,,MIC,,,,,,EM,,,,,Europe & Central Asia,,,,,,Lower middle income,Europe & Central Asia,IBRD,
+UZB,Uzbekistan,0,1,0,1,0,1,0,0,0,LIDC,0,0,1,1,0,0,1,0,0,0,0,0,UZB,,LMC,,MIC,,,,,,,LIDC,Poorest (IDS eligible),,,Europe & Central Asia,,,,,,Lower middle income,Europe & Central Asia,Blend,
+VUT,Vanuatu,0,1,0,1,0,1,0,0,1,EM,0,1,0,1,0,0,0,0,1,0,0,0,VUT,,LMC,,MIC,,,SIDS,,,EM,,Poorest (IDS eligible),,,,,East Asia & Pacific,,,,Lower middle income,East Asia & Pacific,IDA,
+VEN,"Venezuela, RB",1,1,0,0,0,0,0,0,0,EM,0,1,0,0,0,0,0,0,0,1,0,0,VEN,,,,,,,,,,EM,,,,,,,,Latin America & Caribbean,,,,Latin America & Caribbean,IBRD,
+VNM,Vietnam,0,1,0,1,0,1,0,0,0,LIDC,0,0,1,0,0,0,0,0,1,0,0,0,VNM,,LMC,,MIC,,,,,,,LIDC,,,,,,East Asia & Pacific,,,,Lower middle income,East Asia & Pacific,IBRD,
+PSE,West Bank and Gaza,0,1,0,1,0,1,0,0,0,EM,0,1,0,0,0,0,0,1,0,0,0,0,PSE,,LMC,,MIC,,,,,,EM,,,,,,Middle East & North Africa,,,,,Lower middle income,Middle East & North Africa,,
+YEM,"Yemen, Rep.",0,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,0,0,0,1,0,0,0,0,YEM,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),,,,Middle East & North Africa,,,,,Low income,Middle East & North Africa,IDA,
+ZMB,Zambia,1,1,1,0,0,0,0,1,0,LIDC,0,0,1,1,1,0,0,0,0,0,1,0,ZMB,LIC,,,,,LDC,,,,,LIDC,Poorest (IDS eligible),HIPC,,,,,,Sub-Saharan Africa,,Low income,Sub-Saharan Africa,IDA,HIPC
+ZWE,Zimbabwe,1,1,0,1,0,1,0,0,0,LIDC,0,0,1,1,0,0,0,0,0,0,1,0,ZWE,,LMC,,MIC,,,,,,,LIDC,Poorest (IDS eligible),,,,,,,Sub-Saharan Africa,,Lower middle income,Sub-Saharan Africa,Blend,
