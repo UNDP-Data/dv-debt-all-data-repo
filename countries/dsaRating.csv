@@ -1,4 +1,4 @@
-name,iso,Risk of debt distress
+Country,iso,CRA rating
 Afghanistan,AFG,High
 Bangladesh,BGD,Low
 Benin,BEN,Moderate
@@ -40,7 +40,7 @@ Marshall Islands,MHL,High
 Mauritania,MRT,Moderate
 Micronesia,FSM,High
 Moldova,MDA,Low
-Mozambique,MOZ,In debt distress
+Mozambique,MOZ,High
 Myanmar  ,MMR,Low
 Nepal ,NPL,Low
 Nicaragua,NIC,Moderate
