@@ -1,60 +1,60 @@
-Country,iso,income,Credit rating score
-Angola,AGO,LMC,6.0
-Argentina,ARG,UMC,2.5
-Armenia,ARM,UMC,9.0
-Azerbaijan,AZE,UMC,11.0
-Bangladesh,BGD,LMC,8.5
-Belarus,BLR,UMC,1.0
-Benin,BEN,LMC,8.0
-Bolivia,BOL,LMC,5.0
-Brazil,BRA,UMC,9.5
-Bulgaria,BGR,UMC,13.5
-Cameroon,CMR,LMC,3.0
-China,CHN,UMC,17.0
-Colombia,COL,UMC,12.0
-Costa Rica,CRI,UMC,8.5
-Dominican Republic,DOM,UMC,9.5
-Ecuador,ECU,UMC,4.5
-Egypt,EGY,LMC,5.5
-El Salvador,SLV,LMC,4.5
-Ethiopia,ETH,LIC,2.0
-Gabon,GAB,UMC,5.0
-Georgia,GEO,UMC,10.0
-Ghana,GHA,LMC,1.5
-Grenada,GRD,UMC,1.0
-Guatemala,GTM,UMC,10.5
-India,IND,LMC,12.0
-Indonesia,IDN,UMC,13.0
-Iraq,IRQ,UMC,5.5
-Ivory Coast,CIV,LMC,9.0
-Jamaica,JAM,UMC,8.5
-Jordan,JOR,UMC,8.0
-Kazakhstan,KAZ,UMC,12.5
-Kenya,KEN,LMC,6.5
-Lebanon,LBN,UMC,1.0
-Malaysia,MYS,UMC,15.0
-Mexico,MEX,UMC,13.0
-Mongolia,MNG,LMC,6.5
-Morocco,MAR,LMC,11.0
-Mozambique,MOZ,LIC,4.5
-Nicaragua,NIC,LMC,6.5
-Nigeria,NGA,LMC,5.5
-Pakistan,PAK,LMC,4.0
-Paraguay,PRY,UMC,10.5
-Peru,PER,UMC,13.5
-Philippines,PHL,LMC,13.5
-Republic of the Congo,COG,LMC,5.0
-Rwanda,RWA,LIC,7.5
-Serbia,SRB,UMC,10.5
-South Africa,ZAF,UMC,9.5
-Sri Lanka,LKA,LMC,1.5
-Suriname,SUR,UMC,4.0
-Thailand,THA,UMC,14.0
-Tunisia,TUN,LMC,4.0
-Turkey,TUR,UMC,6.5
-Uganda,UGA,LIC,6.5
-Ukraine,UKR,LMC,3.0
-Uzbekistan,UZB,LMC,9.0
-Venezuela,VEN,UMC,1.0
-Vietnam,VNM,LMC,10.5
-Zambia,ZMB,LMC,1.5
+Country,iso,Credit rating score,income
+China,CHN,17,UMC
+Malaysia,MYS,14.7,UMC
+Thailand,THA,14,UMC
+Bulgaria,BGR,13.3,UMC
+Peru,PER,13.3,UMC
+Philippines,PHL,13.3,LMC
+Indonesia,IDN,13,UMC
+Mexico,MEX,12.7,UMC
+Kazakhstan,KAZ,12.7,UMC
+India,IND,12,LMC
+Colombia,COL,11.7,UMC
+Azerbaijan,AZE,11,UMC
+Morocco,MAR,11,LMC
+Paraguay,PRY,10.7,UMC
+Serbia,SRB,10.7,UMC
+Guatemala,GTM,10.3,UMC
+Vietnam,VNM,10.3,LMC
+Georgia,GEO,10,UMC
+Brazil,BRA,9.3,UMC
+South Africa,ZAF,9.3,UMC
+Dominican Republic,DOM,9.3,UMC
+Bangladesh,BGD,9,LMC
+Ivory Coast,CIV,9,LMC
+Uzbekistan,UZB,9,LMC
+Jordan,JOR,8.3,LMC
+Armenia,ARM,8.3,UMC
+Benin,BEN,8,LMC
+Costa Rica,CRI,8,UMC
+Jamaica,JAM,7.7,UMC
+Rwanda,RWA,7.7,LIC
+Uganda,UGA,7.3,LIC
+Kenya,KEN,7,LMC
+Egypt,EGY,6.7,LMC
+Cameroon,CMR,6.7,LMC
+Mongolia,MNG,6.7,LMC
+Turkey,TUR,6.7,UMC
+Nicaragua,NIC,6.3,LMC
+Angola,AGO,6,LMC
+Bolivia,BOL,5.7,LMC
+Iraq,IRQ,5.7,UMC
+Nigeria,NGA,5.7,LMC
+Gabon,GAB,5.5,UMC
+Ecuador,ECU,5,UMC
+Mozambique,MOZ,4.7,LIC
+Republic of the Congo,COG,4.7,LMC
+Pakistan,PAK,3.7,LMC
+Ethiopia,ETH,3.7,LIC
+Tunisia,TUN,3.5,LMC
+El Salvador,SLV,3.3,UMC
+Ukraine,UKR,2.7,LMC
+Argentina,ARG,2.5,UMC
+Suriname,SUR,1.7,UMC
+Zambia,ZMB,1.3,LMC
+Ghana,GHA,1.3,LMC
+Belarus,BLR,1.3,UMC
+Sri Lanka,LKA,1.3,LMC
+Lebanon,LBN,1,LMC
+Venezuela,VEN,1,UMC
+Grenada,GRD,1,UMC
