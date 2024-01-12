@@ -1,7 +1,7 @@
-graph,source,note
-Credit ratings,"based on ratings from the three major ratings firms S&P, Moodys and Fitch accessed through www.tradingeconomics.com. Ultimo-October 2023.",The graphic shows the average numeric rating across the three major rating agencies.
-DSA Ratings,based on latest DSAs as reported by the IMF ultimo-November 2023 (https://www.imf.org/external/Pubs/ft/dsa/DSAlist.pdf),
-Government debt as a percentage of GDP,"based on data from the IMF World Economic Outlook, October 2023",the graph shows data from 2000 to 2023 or latest available datapoint.
-Public external debt composition,World Bank International Debt Statistics 2023,bilateral plus multilateral equal total official. Bonds plus ‘other private’ equal total private.
-Net interest payments,"based on IMF World Economic Outlook, October 2023.",net interests are calculated as the difference between the overall and primary balance.
-Total debt service,"based on IMF World Economic Outlook,  October 2023 and World Bank International Debts Statistics 2023 (www.tradingeconomics.com).  ",
+graph,year,source,note
+Credit Ratings,2023,Credit ratings are from Moody’s and Standard & Poor’s and taken from www.tradingeconomics.com.  ,"Credit ratings are from December 18, 2023.  "
+DSA Ratings,2023,DSA ratings are from the IMF and World Bank Debt Sustainability Analysis (DSA).  ,"DSA ratings are from the latest published DSAs as per November 30, 2023.  "
+Government debt as a percentage of GDP,2023,"based on data from the IMF World Economic Outlook, October 2023",the graph shows data from 2000 to 2023 or latest available datapoint.
+Public external debt composition,,World Bank International Debt Statistics 2023,bilateral plus multilateral equal total official. Bonds plus ‘other private’ equal total private.
+Net interest payments,,"based on IMF World Economic Outlook, October 2023.",net interests are calculated as the difference between the overall and primary balance.
+Total debt service,,"based on IMF World Economic Outlook,  October 2023 and World Bank International Debts Statistics 2023 (www.tradingeconomics.com).  ",
