@@ -1,35 +1,35 @@
-region,value,In debt distress,High,Moderate,Low
-All developing,Number,10.00,26.00,26.00,7.00
-All developing,Percentage,14.49,37.68,37.68,10.14
-LIC,Number,4.00,10.00,11.00,0.00
-LIC,Percentage,16.00,40.00,44.00,0.00
-LMC,Number,5.00,10.00,13.00,6.00
-LMC,Percentage,14.71,29.41,38.24,17.65
-UMC,Number,1.00,6.00,2.00,1.00
-UMC,Percentage,10.00,60.00,20.00,10.00
-MIC,Number,6.00,16.00,15.00,7.00
-MIC,Percentage,13.64,36.36,34.09,15.91
-LDC,Number,6.00,15.00,18.00,4.00
-LDC,Percentage,13.95,34.88,41.86,9.30
-SIDS,Number,2.00,12.00,6.00,0.00
-SIDS,Percentage,10.00,60.00,30.00,0.00
-EM,Number,1.00,8.00,4.00,0.00
-EM,Percentage,7.69,61.54,30.77,0.00
-LIDC,Number,9.00,18.00,22.00,7.00
-LIDC,Percentage,16.07,32.14,39.29,12.50
-Poorest,Number,10.00,26.00,26.00,6.00
-Poorest,Percentage,14.71,38.24,38.24,8.82
-HIPC,Number,5.00,12.00,17.00,1.00
-HIPC,Percentage,14.29,34.29,48.57,2.86
-South Asia,Number,0.00,2.00,1.00,2.00
-South Asia,Percentage,0.00,40.00,20.00,40.00
-Europe & Central Asia,Number,0.00,1.00,1.00,2.00
-Europe & Central Asia,Percentage,0.00,25.00,25.00,50.00
-Middle East & North Africa,Number,0.00,1.00,1.00,0.00
-Middle East & North Africa,Percentage,0.00,50.00,50.00,0.00
-East Asia & Pacific,Number,1.00,7.00,3.00,2.00
-East Asia & Pacific,Percentage,7.69,53.85,23.08,15.38
-Latin America & Caribbean,Number,1.00,3.00,3.00,1.00
-Latin America & Caribbean,Percentage,12.50,37.50,37.50,12.50
-Sub-Saharan Africa,Number,8.00,12.00,17.00,0.00
-Sub-Saharan Africa,Percentage,21.62,32.43,45.95,0.00
+Group,value,In debt distress,High,Moderate,Low
+All developing,Number,10.0,26.0,25.0,7.0
+All developing,Percentage,14.7,38.2,36.8,10.3
+Low income (LIC),Number,4.0,10.0,10.0,0.0
+Low income (LIC),Percentage,16.7,41.7,41.7,0.0
+Lower-middle income (LMC),Number,5.0,9.0,14.0,6.0
+Lower-middle income (LMC),Percentage,14.7,26.5,41.2,17.6
+Upper-middle income (UMC),Number,1.0,7.0,1.0,1.0
+Upper-middle income (UMC),Percentage,10.0,70.0,10.0,10.0
+Middle income (MIC),Number,6.0,16.0,14.0,7.0
+Middle income (MIC),Percentage,14.0,37.2,32.6,16.3
+Least developed,Number,6.0,15.0,18.0,4.0
+Least developed (LDC),Percentage,14.0,34.9,41.9,9.3
+Small island developing (SIDS),Number,2.0,12.0,5.0,0.0
+Small island developing (SIDS),Percentage,10.5,63.2,26.3,0.0
+Emerging market (EM),Number,1.0,8.0,3.0,0.0
+Emerging market (EM),Percentage,8.3,66.7,25.0,0.0
+Low income developing (LIDC),Number,9.0,18.0,22.0,7.0
+Low income developing (LIDC),Percentage,16.1,32.1,39.3,12.5
+Poorest (IDA eligible),Number,10.0,26.0,25.0,6.0
+Poorest (IDA eligible),Percentage,14.9,38.8,37.3,9.0
+Heavily indebted poor (HIPC),Number,5.0,12.0,16.0,1.0
+Heavily indebted poor (HIPC),Percentage,14.7,35.3,47.1,2.9
+South Asia (SA),Number,0.0,2.0,1.0,2.0
+South Asia (SA),Percentage,0.0,40.0,20.0,40.0
+Europe & Central Asia (ECA),Number,0.0,1.0,1.0,2.0
+Europe & Central Asia (ECA),Percentage,0.0,25.0,25.0,50.0
+Middle East & North Africa (MENA,Number,0.0,1.0,1.0,0.0
+Middle East & North Africa (MENA,Percentage,0.0,50.0,50.0,0.0
+East Asia & Pacific (EAP),Number,1.0,7.0,3.0,2.0
+East Asia & Pacific (EAP),Percentage,7.7,53.8,23.1,15.4
+Latin America & Caribbean (LAC),Number,1.0,3.0,2.0,1.0
+Latin America & Caribbean (LAC),Percentage,14.3,42.9,28.6,14.3
+Sub-Saharan Africa (SSA),Number,8.0,12.0,17.0,0.0
+Sub-Saharan Africa (SSA),Percentage,21.6,32.4,45.9,0.0
