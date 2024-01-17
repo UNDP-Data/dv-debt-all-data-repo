@@ -1,0 +1,6 @@
+graph,year,source,note
+Credit and DSA Ratings,,"Credit rating based on S&P, Moody’s and FITCH long-term sovereign credit ratings as of September 3, 2023 accessed through Trading Economics.",Numerical rating is obtained using the ratings scale in Jensen (2022) and as a simple average across ratings.
+Debt to GDP,,"based on IMF World Economic Outlook, October 2023",Interquartile range refers to the spread of the middle half of the data.
+Net interest payments,,"based on IMF World Economic Outlook, October 2023",Numbers refer to averages across the three years. The 'percentage' option shows the number of countries as a share of total.
+External debt service,,Author based on World Bank IDS 2022 and IMF WEO October 2023,
+Debt composition,,,
