@@ -1,6 +1,6 @@
 graph,year,source,note
 Credit and DSA Ratings,,"Credit rating based on S&P, Moody’s and FITCH long-term sovereign credit ratings as of September 3, 2023 accessed through Trading Economics.",Numerical rating is obtained using the ratings scale in Jensen (2022) and as a simple average across ratings.
-Debt to GDP,,"based on IMF World Economic Outlook, October 2023",Interquartile range refers to the spread of the middle half of the data.
-Net interest payments,,"based on IMF World Economic Outlook, October 2023",Numbers refer to averages across the three years. The 'percentage' option shows the number of countries as a share of total.
-External debt service,,Author based on World Bank IDS 2022 and IMF WEO October 2023,
-Debt composition,,,
+Debt to GDP,,"Based on IMF WEO, October 2023 and World Bank International Debt Statistics 2023. ",Total debt refers to general government debt as reported by the IMF. External debt refers to public and publicly guaranteed debt as reported by the World Bank.  
+Net interest payments,,"Based on IMF World Economic Outlook, October 2023",Net interests are calculated as the difference between the overall and primary balance.  
+External debt service,,World Bank IDS 2022 and IMF WEO October 2023,
+Debt composition,,Based on World Bank International Debt Statistics 2023 ,Bilateral and multilateral debt equals total official creditor debt. Bonds plus ‘other private’ equals total private creditor debt. 
