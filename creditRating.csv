@@ -1,43 +1,43 @@
 Group,Value,Investment grade,Non-investment grade,Highly speculative,Substantial risk or extremely speculative,In default
-All developing,Number,11.0,16.0,12.0,9.0,11.0
+All developing,Number,11,16,12,9,11
 All developing,Percentage,18.6,27.1,20.3,15.3,18.6
-Low income (LIC),Number,0.0,0.0,2.0,1.0,2.0
-Low income (LIC),Percentage,0.0,0.0,40.0,20.0,40.0
-Lower-middle income (LMC),Number,3.0,5.0,8.0,4.0,5.0
-Lower-middle income (LMC),Percentage,12.0,20.0,32.0,16.0,20.0
-Upper-middle income (UMC),Number,8.0,11.0,2.0,4.0,3.0
+Low income (LIC),Number,0,0,2,1,2
+Low income (LIC),Percentage,0,0,40,20,40
+Lower-middle income (LMC),Number,3,5,8,4,5
+Lower-middle income (LMC),Percentage,12,20,32,16,20
+Upper-middle income (UMC),Number,8,11,2,4,3
 Upper-middle income (UMC),Percentage,28.6,39.3,7.1,14.3,10.7
-Middle income (MIC),Number,11.0,16.0,10.0,8.0,8.0
+Middle income (MIC),Number,11,16,10,8,8
 Middle income (MIC),Percentage,20.8,30.2,18.9,15.1,15.1
-Least developed,Number,0.0,1.0,3.0,1.0,2.0
-Least developed (LDC),Percentage,0.0,14.3,42.9,14.3,28.6
-Small island developing (SIDS),Number,0.0,2.0,0.0,1.0,1.0
-Small island developing (SIDS),Percentage,0.0,50.0,0.0,25.0,25.0
-Emerging market (EM),Number,11.0,12.0,6.0,7.0,7.0
-Emerging market (EM),Percentage,25.6,27.9,14.0,16.3,16.3
-Low income developing (LIDC),Number,0.0,4.0,6.0,2.0,4.0
-Low income developing (LIDC),Percentage,0.0,25.0,37.5,12.5,25.0
-Poorest (IDA eligible),Number,0.0,3.0,6.0,3.0,6.0
-Poorest (IDA eligible),Percentage,0.0,16.7,33.3,16.7,33.3
-Heavily indebted poor (HIPC),Number,0.0,1.0,4.0,3.0,4.0
-Heavily indebted poor (HIPC),Percentage,0.0,8.3,33.3,25.0,33.3
-Very high HDI,Number,3.0,3.0,1.0,0.0,2.0
-Very high HDI,Percentage,33.3,33.3,11.1,0.0,22.2
-High HDI,Number,6.0,9.0,3.0,4.0,4.0
+Least developed,Number,0,1,3,1,2
+Least developed (LDC),Percentage,0,14.3,42.9,14.3,28.6
+Small island developing (SIDS),Number,0,2,0,1,1
+Small island developing (SIDS),Percentage,0,50,0,25,25
+Emerging market (EM),Number,11,12,6,7,7
+Emerging market (EM),Percentage,25.6,27.9,14,16.3,16.3
+Low income developing (LIDC),Number,0,4,6,2,4
+Low income developing (LIDC),Percentage,0,25,37.5,12.5,25
+Poorest (IDA eligible),Number,0,3,6,3,6
+Poorest (IDA eligible),Percentage,0,16.7,33.3,16.7,33.3
+Heavily indebted poor (HIPC),Number,0,1,4,3,4
+Heavily indebted poor (HIPC),Percentage,0,8.3,33.3,25,33.3
+Very high HDI,Number,3,3,1,0,2
+Very high HDI,Percentage,33.3,33.3,11.1,0,22.2
+High HDI,Number,6,9,3,4,4
 High HDI,Percentage,23.1,34.6,11.5,15.4,15.4
-Medium HDI,Number,2.0,4.0,4.0,3.0,4.0
+Medium HDI,Number,2,4,4,3,4
 Medium HDI,Percentage,11.8,23.5,23.5,17.6,23.5
-Low HDI,Number,0.0,0.0,4.0,2.0,1.0
-Low HDI,Percentage,0.0,0.0,57.1,28.6,14.3
-South Asia (SA),Number,1.0,1.0,0.0,1.0,1.0
-South Asia (SA),Percentage,25.0,25.0,0.0,25.0,25.0
-Europe & Central Asia (ECA),Number,2.0,5.0,1.0,0.0,2.0
-Europe & Central Asia (ECA),Percentage,20.0,50.0,10.0,0.0,20.0
-Middle East & North Africa (MENA,Number,1.0,1.0,3.0,1.0,1.0
+Low HDI,Number,0,0,4,2,1
+Low HDI,Percentage,0,0,57.1,28.6,14.3
+South Asia (SA),Number,1,1,0,1,1
+South Asia (SA),Percentage,25,25,0,25,25
+Europe & Central Asia (ECA),Number,2,5,1,0,2
+Europe & Central Asia (ECA),Percentage,20,50,10,0,20
+Middle East & North Africa (MENA,Number,1,1,3,1,1
 Middle East & North Africa (MENA,Percentage,14.3,14.3,42.9,14.3,14.3
-East Asia & Pacific (EAP),Number,5.0,1.0,1.0,0.0,0.0
-East Asia & Pacific (EAP),Percentage,71.4,14.3,14.3,0.0,0.0
-Latin America & Caribbean (LAC),Number,3.0,6.0,1.0,4.0,3.0
+East Asia & Pacific (EAP),Number,5,1,1,0,0
+East Asia & Pacific (EAP),Percentage,71.4,14.3,14.3,0,0
+Latin America & Caribbean (LAC),Number,3,6,1,4,3
 Latin America & Caribbean (LAC),Percentage,17.6,35.3,5.9,23.5,17.6
-Sub-Saharan Africa (SSA),Number,0.0,2.0,6.0,3.0,4.0
-Sub-Saharan Africa (SSA),Percentage,0.0,13.3,40.0,20.0,26.7
+Sub-Saharan Africa (SSA),Number,0,2,6,3,4
+Sub-Saharan Africa (SSA),Percentage,0,13.3,40,20,26.7
