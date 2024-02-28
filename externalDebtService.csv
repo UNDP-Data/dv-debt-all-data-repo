@@ -149,31 +149,31 @@ Least developed (LDC),2021,5.00,12.20,5.00,12.82
 Least developed (LDC),2022,3.00,7.50,1.00,2.56
 Least developed (LDC),2023,11.00,27.50,..,..
 Least developed (LDC),2024,12.00,30.00,..,..
-Small island developing (SIDS),2000,3.00,15.79,1.00,6.67
-Small island developing (SIDS),2001,3.00,15.79,2.00,11.76
-Small island developing (SIDS),2002,4.00,21.05,3.00,17.65
-Small island developing (SIDS),2003,3.00,15.79,3.00,16.67
-Small island developing (SIDS),2004,4.00,21.05,2.00,10.53
-Small island developing (SIDS),2005,2.00,10.53,3.00,15.79
-Small island developing (SIDS),2006,3.00,15.79,1.00,5.26
-Small island developing (SIDS),2007,3.00,15.79,3.00,15.79
-Small island developing (SIDS),2008,2.00,10.53,0.00,0.00
-Small island developing (SIDS),2009,2.00,10.53,1.00,5.26
-Small island developing (SIDS),2010,2.00,10.53,0.00,0.00
-Small island developing (SIDS),2011,2.00,10.53,1.00,5.26
-Small island developing (SIDS),2012,2.00,10.53,2.00,10.53
-Small island developing (SIDS),2013,2.00,10.00,0.00,0.00
-Small island developing (SIDS),2014,1.00,5.00,0.00,0.00
-Small island developing (SIDS),2015,3.00,15.00,2.00,10.00
-Small island developing (SIDS),2016,1.00,5.00,1.00,5.00
-Small island developing (SIDS),2017,1.00,5.00,1.00,5.00
-Small island developing (SIDS),2018,2.00,10.00,0.00,0.00
-Small island developing (SIDS),2019,2.00,10.00,1.00,5.00
-Small island developing (SIDS),2020,5.00,25.00,3.00,15.00
-Small island developing (SIDS),2021,3.00,15.00,2.00,10.00
-Small island developing (SIDS),2022,3.00,15.00,1.00,5.00
-Small island developing (SIDS),2023,4.00,20.00,..,..
-Small island developing (SIDS),2024,2.00,10.00,..,..
+Small island developing (SIDS),2000,3.00,15.00,1.00,6.25
+Small island developing (SIDS),2001,3.00,15.00,2.00,11.11
+Small island developing (SIDS),2002,4.00,20.00,3.00,16.67
+Small island developing (SIDS),2003,3.00,15.00,3.00,15.79
+Small island developing (SIDS),2004,4.00,20.00,2.00,10.00
+Small island developing (SIDS),2005,2.00,10.00,3.00,15.00
+Small island developing (SIDS),2006,4.00,20.00,1.00,5.00
+Small island developing (SIDS),2007,3.00,15.00,3.00,15.00
+Small island developing (SIDS),2008,2.00,10.00,0.00,0.00
+Small island developing (SIDS),2009,2.00,10.00,1.00,5.00
+Small island developing (SIDS),2010,2.00,10.00,0.00,0.00
+Small island developing (SIDS),2011,2.00,10.00,1.00,5.00
+Small island developing (SIDS),2012,3.00,15.00,2.00,10.00
+Small island developing (SIDS),2013,2.00,9.52,0.00,0.00
+Small island developing (SIDS),2014,1.00,4.76,0.00,0.00
+Small island developing (SIDS),2015,3.00,14.29,2.00,9.52
+Small island developing (SIDS),2016,1.00,4.76,1.00,4.76
+Small island developing (SIDS),2017,1.00,4.76,1.00,4.76
+Small island developing (SIDS),2018,2.00,9.52,0.00,0.00
+Small island developing (SIDS),2019,2.00,9.52,1.00,4.76
+Small island developing (SIDS),2020,5.00,23.81,3.00,14.29
+Small island developing (SIDS),2021,3.00,14.29,3.00,14.29
+Small island developing (SIDS),2022,3.00,14.29,1.00,4.76
+Small island developing (SIDS),2023,4.00,19.05,..,..
+Small island developing (SIDS),2024,2.00,9.52,..,..
 Emerging market (EM),2000,19.00,33.33,9.00,16.67
 Emerging market (EM),2001,15.00,25.42,9.00,16.36
 Emerging market (EM),2002,16.00,27.12,9.00,16.07
@@ -274,6 +274,106 @@ Heavily indebted poor (HIPC),2021,3.00,8.57,3.00,8.82
 Heavily indebted poor (HIPC),2022,2.00,5.88,1.00,2.94
 Heavily indebted poor (HIPC),2023,10.00,29.41,..,..
 Heavily indebted poor (HIPC),2024,12.00,35.29,..,..
+Very high HDI,2000,4.00,44.44,1.00,11.11
+Very high HDI,2001,2.00,20.00,2.00,22.22
+Very high HDI,2002,3.00,30.00,0.00,0.00
+Very high HDI,2003,3.00,30.00,0.00,0.00
+Very high HDI,2004,1.00,10.00,0.00,0.00
+Very high HDI,2005,0.00,0.00,0.00,0.00
+Very high HDI,2006,0.00,0.00,0.00,0.00
+Very high HDI,2007,0.00,0.00,0.00,0.00
+Very high HDI,2008,1.00,9.09,0.00,0.00
+Very high HDI,2009,0.00,0.00,0.00,0.00
+Very high HDI,2010,0.00,0.00,0.00,0.00
+Very high HDI,2011,0.00,0.00,0.00,0.00
+Very high HDI,2012,0.00,0.00,0.00,0.00
+Very high HDI,2013,1.00,9.09,0.00,0.00
+Very high HDI,2014,0.00,0.00,0.00,0.00
+Very high HDI,2015,1.00,9.09,1.00,9.09
+Very high HDI,2016,1.00,9.09,2.00,18.18
+Very high HDI,2017,0.00,0.00,1.00,9.09
+Very high HDI,2018,1.00,9.09,2.00,18.18
+Very high HDI,2019,1.00,9.09,1.00,9.09
+Very high HDI,2020,2.00,18.18,1.00,9.09
+Very high HDI,2021,2.00,18.18,1.00,9.09
+Very high HDI,2022,0.00,0.00,0.00,0.00
+Very high HDI,2023,1.00,9.09,..,..
+Very high HDI,2024,0.00,0.00,..,..
+High HDI,2000,11.00,28.95,6.00,17.65
+High HDI,2001,9.00,23.08,4.00,11.43
+High HDI,2002,10.00,25.64,7.00,19.44
+High HDI,2003,10.00,25.64,7.00,19.44
+High HDI,2004,7.00,17.95,3.00,8.11
+High HDI,2005,4.00,10.26,4.00,10.53
+High HDI,2006,7.00,17.95,2.00,5.41
+High HDI,2007,5.00,12.82,2.00,5.26
+High HDI,2008,4.00,10.26,1.00,2.63
+High HDI,2009,3.00,7.69,2.00,5.26
+High HDI,2010,2.00,5.13,0.00,0.00
+High HDI,2011,2.00,5.13,2.00,5.26
+High HDI,2012,4.00,10.26,1.00,2.63
+High HDI,2013,4.00,10.26,0.00,0.00
+High HDI,2014,3.00,7.69,0.00,0.00
+High HDI,2015,7.00,17.95,3.00,7.89
+High HDI,2016,3.00,7.69,2.00,5.26
+High HDI,2017,6.00,15.38,3.00,7.89
+High HDI,2018,7.00,17.95,3.00,7.89
+High HDI,2019,8.00,20.51,4.00,10.53
+High HDI,2020,12.00,30.77,8.00,21.05
+High HDI,2021,11.00,28.21,5.00,13.16
+High HDI,2022,6.00,15.38,0.00,0.00
+High HDI,2023,4.00,10.81,..,..
+High HDI,2024,5.00,13.51,..,..
+Medium HDI,2000,8.00,24.24,3.00,10.34
+Medium HDI,2001,6.00,18.18,4.00,13.79
+Medium HDI,2002,5.00,15.15,3.00,10.00
+Medium HDI,2003,6.00,18.18,5.00,16.13
+Medium HDI,2004,4.00,12.12,2.00,6.45
+Medium HDI,2005,3.00,8.82,2.00,6.25
+Medium HDI,2006,4.00,11.76,2.00,5.88
+Medium HDI,2007,4.00,11.76,3.00,8.82
+Medium HDI,2008,1.00,2.86,0.00,0.00
+Medium HDI,2009,3.00,8.57,1.00,2.86
+Medium HDI,2010,3.00,8.57,0.00,0.00
+Medium HDI,2011,2.00,5.88,0.00,0.00
+Medium HDI,2012,2.00,5.88,1.00,2.94
+Medium HDI,2013,1.00,2.86,0.00,0.00
+Medium HDI,2014,0.00,0.00,0.00,0.00
+Medium HDI,2015,2.00,5.71,0.00,0.00
+Medium HDI,2016,2.00,5.71,1.00,2.86
+Medium HDI,2017,4.00,11.43,1.00,2.94
+Medium HDI,2018,4.00,11.43,1.00,2.94
+Medium HDI,2019,8.00,22.86,3.00,8.57
+Medium HDI,2020,7.00,20.00,2.00,5.71
+Medium HDI,2021,4.00,11.43,2.00,5.71
+Medium HDI,2022,3.00,8.57,1.00,2.86
+Medium HDI,2023,12.00,34.29,..,..
+Medium HDI,2024,11.00,31.43,..,..
+Low HDI,2000,2.00,6.90,2.00,8.33
+Low HDI,2001,2.00,6.90,2.00,8.33
+Low HDI,2002,2.00,6.67,1.00,4.17
+Low HDI,2003,2.00,6.67,1.00,4.00
+Low HDI,2004,5.00,16.67,1.00,3.85
+Low HDI,2005,3.00,10.00,1.00,3.70
+Low HDI,2006,2.00,6.45,0.00,0.00
+Low HDI,2007,4.00,12.90,1.00,3.57
+Low HDI,2008,3.00,9.68,0.00,0.00
+Low HDI,2009,0.00,0.00,0.00,0.00
+Low HDI,2010,0.00,0.00,0.00,0.00
+Low HDI,2011,0.00,0.00,0.00,0.00
+Low HDI,2012,0.00,0.00,0.00,0.00
+Low HDI,2013,0.00,0.00,0.00,0.00
+Low HDI,2014,2.00,6.45,0.00,0.00
+Low HDI,2015,0.00,0.00,0.00,0.00
+Low HDI,2016,0.00,0.00,0.00,0.00
+Low HDI,2017,0.00,0.00,1.00,3.57
+Low HDI,2018,0.00,0.00,1.00,3.57
+Low HDI,2019,2.00,6.45,2.00,7.41
+Low HDI,2020,1.00,3.33,2.00,6.90
+Low HDI,2021,5.00,16.67,5.00,17.86
+Low HDI,2022,3.00,10.34,2.00,7.14
+Low HDI,2023,8.00,27.59,..,..
+Low HDI,2024,8.00,28.57,..,..
 South Asia (SA),2000,1.00,14.29,0.00,0.00
 South Asia (SA),2001,0.00,0.00,0.00,0.00
 South Asia (SA),2002,0.00,0.00,0.00,0.00

@@ -10,6 +10,10 @@ EM,Emerging market (EM),IMF
 LIDC,Low income developing (LIDC),IMF
 Poorest,Poorest (IDA eligible),
 HIPC,Heavily indebted poor (HIPC),
+Very high HDI,Very high HDI,
+High HDI,High HDI,
+Medium HDI,Medium HDI,
+Low HDI,Low HDI,
 South Asia,South Asia (SA),
 Europe & Central Asia,Europe & Central Asia (ECA),
 Middle East & North Africa,Middle East and North Africa (MENA),
