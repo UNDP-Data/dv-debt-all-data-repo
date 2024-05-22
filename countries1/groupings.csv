@@ -1,0 +1,136 @@
+iso,name,UNDP 52,All developing,Region,IMF,LIC,LMC,UMC,MIC,LDC,SIDS,Poorest,HIPC,Very high HDI,High HDI,Medium HDI,Low HDI
+AFG,Afghanistan,1,1,South Asia,LIDC,1,0,0,0,1,0,1,1,0,0,0,1
+ALB,Albania,0,1,Europe & Central Asia,EM,0,0,1,1,0,0,0,0,0,1,0,0
+DZA,Algeria,0,1,Middle East & North Africa,EM,0,1,0,1,0,0,0,0,0,1,0,0
+AGO,Angola,0,1,Sub-Saharan Africa,EM,0,1,0,1,1,0,0,0,0,0,1,0
+ARG,Argentina,1,1,Latin America & Caribbean,EM,0,0,1,1,0,0,0,0,1,0,0,0
+ARM,Armenia,0,1,Europe & Central Asia,EM,0,0,1,1,0,0,0,0,0,1,0,0
+AZE,Azerbaijan,0,1,Europe & Central Asia,EM,0,0,1,1,0,0,0,0,0,1,0,0
+BGD,Bangladesh,0,1,South Asia,LIDC,0,1,0,1,1,0,1,0,0,0,1,0
+BLR,Belarus,1,1,Europe & Central Asia,EM,0,0,1,1,0,0,0,0,1,0,0,0
+BLZ,Belize,1,1,Latin America & Caribbean,EM,0,0,1,1,0,1,0,0,0,0,1,0
+BEN,Benin,0,1,Sub-Saharan Africa,LIDC,0,1,0,1,0,0,1,1,0,0,0,1
+BTN,Bhutan,0,1,South Asia,LIDC,0,1,0,1,1,0,1,0,0,0,1,0
+BOL,Bolivia,0,1,Latin America & Caribbean,EM,0,1,0,1,0,0,0,1,0,0,1,0
+BIH,Bosnia and Herzegovina,0,1,Europe & Central Asia,EM,0,0,1,1,0,0,0,0,0,1,0,0
+BWA,Botswana,0,1,Sub-Saharan Africa,EM,0,0,1,1,0,0,0,0,0,0,1,0
+BRA,Brazil,0,1,Latin America & Caribbean,EM,0,0,1,1,0,0,0,0,0,1,0,0
+BGR,Bulgaria,0,1,Europe & Central Asia,EM,0,0,1,1,0,0,0,0,0,1,0,0
+BFA,Burkina Faso,1,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,1,0,0,0,1
+BDI,Burundi,1,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,1,0,0,0,1
+CPV,Cabo Verde,0,1,Sub-Saharan Africa,EM,0,1,0,1,0,1,1,0,0,0,1,0
+KHM,Cambodia,0,1,East Asia & Pacific,LIDC,0,1,0,1,1,0,1,0,0,0,1,0
+CMR,Cameroon,0,1,Sub-Saharan Africa,LIDC,0,1,0,1,0,0,1,1,0,0,1,0
+CAF,Central African Republic,1,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,1,0,0,0,1
+TCD,Chad,1,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,1,0,0,0,1
+CHN,China,0,1,East Asia & Pacific,EM,0,0,1,1,0,0,0,0,0,1,0,0
+COL,Colombia,0,1,Latin America & Caribbean,EM,0,0,1,1,0,0,0,0,0,1,0,0
+COM,Comoros,1,1,Sub-Saharan Africa,LIDC,0,1,0,1,1,1,1,1,0,0,1,0
+COD,"Congo, Dem. Rep.",0,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,1,0,0,0,1
+COG,"Congo, Rep.",1,1,Sub-Saharan Africa,LIDC,0,1,0,1,0,0,1,1,0,0,1,0
+CRI,Costa Rica,0,1,Latin America & Caribbean,EM,0,0,1,1,0,0,0,0,1,0,0,0
+CIV,Côte d'Ivoire,0,1,Sub-Saharan Africa,LIDC,0,1,0,1,0,0,1,1,0,0,1,0
+CUB,Cuba,0,1,Latin America & Caribbean,..,0,0,1,1,0,1,0,0,0,1,0,0
+DJI,Djibouti,1,1,Middle East & North Africa,LIDC,0,1,0,1,1,0,1,0,0,0,0,1
+DMA,Dominica,1,1,Latin America & Caribbean,EM,0,0,1,1,0,1,1,0,0,1,0,0
+DOM,Dominican Republic,0,1,Latin America & Caribbean,EM,0,0,1,1,0,1,0,0,0,1,0,0
+ECU,Ecuador,1,1,Latin America & Caribbean,EM,0,0,1,1,0,0,0,0,0,1,0,0
+EGY,"Egypt, Arab Rep.",0,1,Middle East & North Africa,EM,0,1,0,1,0,0,0,0,0,1,0,0
+SLV,El Salvador,1,1,Latin America & Caribbean,EM,0,1,0,1,0,0,0,0,0,0,1,0
+GNQ,Equatorial Guinea,0,1,Sub-Saharan Africa,EM,0,0,1,1,0,0,0,0,0,0,1,0
+ERI,Eritrea,0,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,0,0,0,0,1
+SWZ,Eswatini,0,1,Sub-Saharan Africa,EM,0,1,0,1,0,0,0,0,0,0,1,0
+ETH,Ethiopia,1,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,1,0,0,0,1
+FJI,Fiji,0,1,East Asia & Pacific,EM,0,0,1,1,0,1,1,0,0,1,0,0
+GAB,Gabon,1,1,Sub-Saharan Africa,EM,0,0,1,1,0,0,0,0,0,1,0,0
+GMB,"Gambia, The",1,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,1,0,0,0,1
+GEO,Georgia,0,1,Europe & Central Asia,EM,0,0,1,1,0,0,0,0,1,0,0,0
+GHA,Ghana,1,1,Sub-Saharan Africa,LIDC,0,1,0,1,0,0,1,1,0,0,1,0
+GRD,Grenada,1,1,Latin America & Caribbean,EM,0,0,1,1,0,1,1,0,0,1,0,0
+GTM,Guatemala,0,1,Latin America & Caribbean,EM,0,0,1,1,0,0,0,0,0,0,1,0
+GIN,Guinea,0,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,1,0,0,0,1
+GNB,Guinea-Bissau,1,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,1,1,1,0,0,0,1
+GUY,Guyana,0,1,Latin America & Caribbean,EM,0,0,1,1,0,1,1,1,0,0,0,0
+HTI,Haiti,1,1,Latin America & Caribbean,LIDC,0,1,0,1,1,1,1,1,0,0,0,1
+HND,Honduras,0,1,Latin America & Caribbean,LIDC,0,1,0,1,0,0,1,1,0,0,1,0
+IND,India,0,1,South Asia,EM,0,1,0,1,0,0,0,0,0,0,1,0
+IDN,Indonesia,0,1,East Asia & Pacific,EM,0,1,0,1,0,0,0,0,0,1,0,0
+IRN,"Iran, Islamic Rep.",0,1,Middle East & North Africa,EM,0,1,0,1,0,0,0,0,0,1,0,0
+IRQ,Iraq,1,1,Middle East & North Africa,EM,0,0,1,1,0,0,0,0,0,0,1,0
+JAM,Jamaica,0,1,Latin America & Caribbean,EM,0,0,1,1,0,1,0,0,0,1,0,0
+JOR,Jordan,0,1,Middle East & North Africa,EM,0,0,1,1,0,0,0,0,0,1,0,0
+KAZ,Kazakhstan,0,1,Europe & Central Asia,EM,0,0,1,1,0,0,0,0,1,0,0,0
+KEN,Kenya,0,1,Sub-Saharan Africa,LIDC,0,1,0,1,0,0,1,0,0,0,1,0
+KIR,Kiribati,1,1,East Asia & Pacific,LIDC,0,1,0,1,1,1,1,0,0,0,1,0
+PRK,"Korea, Dem. People's Rep.",0,1,East Asia & Pacific,..,1,0,0,0,0,0,0,0,0,0,0,0
+XKX,Kosovo,0,1,Europe & Central Asia,EM,0,0,1,1,0,0,1,0,..,..,..,..
+KGZ,Kyrgyz Republic,0,1,Europe & Central Asia,LIDC,0,1,0,1,0,0,1,0,0,0,1,0
+LAO,Lao PDR,1,1,East Asia & Pacific,LIDC,0,1,0,1,1,0,1,0,0,0,1,0
+LBN,Lebanon,1,1,Middle East & North Africa,EM,0,1,0,1,0,0,0,0,0,1,0,0
+LSO,Lesotho,0,1,Sub-Saharan Africa,LIDC,0,1,0,1,1,0,1,0,0,0,0,1
+LBR,Liberia,0,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,1,0,0,0,1
+LBY,Libya,0,1,Middle East & North Africa,EM,0,0,1,1,0,0,0,0,0,1,0,0
+MDG,Madagascar,0,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,1,0,0,0,1
+MWI,Malawi,1,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,1,0,0,0,1
+MYS,Malaysia,0,1,East Asia & Pacific,EM,0,0,1,1,0,0,0,0,1,0,0,0
+MDV,Maldives,1,1,South Asia,EM,0,0,1,1,0,1,1,0,0,1,0,0
+MLI,Mali,1,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,1,0,0,0,1
+MHL,Marshall Islands,1,1,East Asia & Pacific,EM,0,0,1,1,0,1,1,0,0,0,1,0
+MRT,Mauritania,1,1,Sub-Saharan Africa,LIDC,0,1,0,1,1,0,1,1,0,0,1,0
+MUS,Mauritius,0,1,Sub-Saharan Africa,EM,0,0,1,1,0,1,0,0,1,0,0,0
+MEX,Mexico,0,1,Latin America & Caribbean,EM,0,0,1,1,0,0,0,0,0,1,0,0
+FSM,Micronesia,1,1,East Asia & Pacific,EM,0,1,0,1,0,1,1,0,0,0,1,0
+MDA,Moldova,0,1,Europe & Central Asia,LIDC,0,0,1,1,0,0,0,0,0,1,0,0
+MNE,Montenegro,0,1,Europe & Central Asia,EM,0,0,1,1,0,0,0,0,1,0,0,0
+MAR,Morocco,0,1,Middle East & North Africa,EM,0,1,0,1,0,0,0,0,0,0,1,0
+MOZ,Mozambique,1,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,1,0,0,0,1
+MMR,Myanmar,0,1,East Asia & Pacific,LIDC,0,1,0,1,1,0,1,0,0,0,1,0
+NAM,Namibia,0,1,Sub-Saharan Africa,EM,0,0,1,1,0,0,0,0,0,0,1,0
+NPL,Nepal,0,1,South Asia,LIDC,0,1,0,1,1,0,1,0,0,0,1,0
+NIC,Nicaragua,0,1,Latin America & Caribbean,LIDC,0,1,0,1,0,0,1,1,0,0,1,0
+NER,Niger,0,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,1,0,0,0,1
+NGA,Nigeria,1,1,Sub-Saharan Africa,LIDC,0,1,0,1,0,0,1,0,0,0,0,1
+MKD,North Macedonia,0,1,Europe & Central Asia,EM,0,0,1,1,0,0,0,0,0,1,0,0
+PAK,Pakistan,1,1,South Asia,EM,0,1,0,1,0,0,1,0,0,0,0,1
+PLW,Palau,0,1,East Asia & Pacific,EM,0,0,1,1,0,1,0,0,0,1,0,0
+PNG,Papua New Guinea,0,1,East Asia & Pacific,LIDC,0,1,0,1,0,1,1,0,0,0,1,0
+PRY,Paraguay,0,1,Latin America & Caribbean,EM,0,0,1,1,0,0,0,0,0,1,0,0
+PER,Peru,0,1,Latin America & Caribbean,EM,0,0,1,1,0,0,0,0,0,1,0,0
+PHL,Philippines,0,1,East Asia & Pacific,EM,0,1,0,1,0,0,0,0,0,0,1,0
+RUS,Russian Federation,0,1,Europe & Central Asia,EM,0,0,1,1,0,0,0,0,1,0,0,0
+RWA,Rwanda,0,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,1,0,0,0,1
+WSM,Samoa,1,1,East Asia & Pacific,EM,0,1,0,1,0,1,1,0,0,1,0,0
+STP,São Tomé and Principe,1,1,Sub-Saharan Africa,LIDC,0,1,0,1,1,1,1,1,0,0,1,0
+SEN,Senegal,0,1,Sub-Saharan Africa,LIDC,0,1,0,1,1,0,1,1,0,0,0,1
+SRB,Serbia,0,1,Europe & Central Asia,EM,0,0,1,1,0,0,0,0,1,0,0,0
+SLE,Sierra Leone,1,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,1,0,0,0,1
+SLB,Solomon Islands,1,1,East Asia & Pacific,LIDC,0,1,0,1,1,1,1,0,0,0,1,0
+SOM,Somalia,1,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,0,0,0,0,0
+ZAF,South Africa,0,1,Sub-Saharan Africa,EM,0,0,1,1,0,0,0,0,0,1,0,0
+SSD,South Sudan,1,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,0,0,0,0,1
+LKA,Sri Lanka,1,1,South Asia,EM,0,1,0,1,0,0,1,0,0,1,0,0
+LCA,St. Lucia,0,1,Latin America & Caribbean,EM,0,0,1,1,0,1,1,0,0,1,0,0
+VCT,St. Vincent and the Grenadines,0,1,Latin America & Caribbean,EM,0,0,1,1,0,1,1,0,0,1,0,0
+SDN,Sudan,1,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,0,0,0,0,1
+SUR,Suriname,1,1,Latin America & Caribbean,EM,0,0,1,1,0,1,0,0,0,1,0,0
+SYR,Syrian Arab Republic,0,1,Middle East & North Africa,..,1,0,0,0,0,0,1,0,0,0,1,0
+TJK,Tajikistan,1,1,Europe & Central Asia,LIDC,0,1,0,1,0,0,1,0,0,0,1,0
+TZA,Tanzania,0,1,Sub-Saharan Africa,LIDC,0,1,0,1,1,0,1,1,0,0,0,1
+THA,Thailand,0,1,East Asia & Pacific,EM,0,0,1,1,0,0,0,0,1,0,0,0
+TLS,Timor-Leste,0,1,East Asia & Pacific,LIDC,0,1,0,1,1,1,1,0,0,0,1,0
+TGO,Togo,0,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,1,0,0,0,1
+TON,Tonga,1,1,East Asia & Pacific,EM,0,0,1,1,0,1,1,0,0,1,0,0
+TUN,Tunisia,1,1,Middle East & North Africa,EM,0,1,0,1,0,0,0,0,0,1,0,0
+TUR,Türkiye,0,1,Europe & Central Asia,EM,0,0,1,1,0,0,0,0,1,0,0,0
+TKM,Turkmenistan,0,1,Europe & Central Asia,EM,0,0,1,1,0,0,0,0,0,1,0,0
+TUV,Tuvalu,1,1,East Asia & Pacific,EM,0,0,1,1,1,1,1,0,0,0,1,0
+UGA,Uganda,0,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,1,0,0,0,1
+UKR,Ukraine,1,1,Europe & Central Asia,EM,0,1,0,1,0,0,0,0,0,1,0,0
+UZB,Uzbekistan,0,1,Europe & Central Asia,LIDC,0,1,0,1,0,0,1,0,0,1,0,0
+VUT,Vanuatu,0,1,East Asia & Pacific,EM,0,1,0,1,0,1,1,0,0,0,1,0
+VEN,"Venezuela, RB",1,1,Latin America & Caribbean,EM,0,0,0,0,0,0,0,0,0,0,1,0
+VNM,Vietnam,0,1,East Asia & Pacific,LIDC,0,1,0,1,0,0,0,0,0,1,0,0
+PSE,West Bank and Gaza,0,1,Middle East & North Africa,EM,0,1,0,1,0,0,0,0,0,1,0,0
+YEM,"Yemen, Rep.",0,1,Middle East & North Africa,LIDC,1,0,0,0,1,0,1,0,0,0,0,1
+ZMB,Zambia,1,1,Sub-Saharan Africa,LIDC,1,0,0,0,1,0,1,1,0,0,1,0
+ZWE,Zimbabwe,1,1,Sub-Saharan Africa,LIDC,0,1,0,1,0,0,1,0,0,0,1,0
