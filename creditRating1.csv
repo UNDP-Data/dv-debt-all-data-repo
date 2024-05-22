@@ -1,4 +1,4 @@
-Group,value,Investment grade,Non-investment grade,Highly speculative,Substantial risk or extremely speculative,In default
+Group,Value,Investment grade,Non-investment grade,Highly speculative,Substantial risk or extremely speculative,In default
 All developing,Number,13,21,28,14,12
 All developing,Percentage,14.8,23.9,31.8,15.9,13.6
 Low income (LIC),Number,0,0,5,3,3
