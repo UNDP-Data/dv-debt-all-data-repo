@@ -1,0 +1,23 @@
+category,description
+All developing,All developing
+LIC,Low income (LIC)
+LMC,Lower-middle income (LMC)
+UMC,Upper-middle income (UMC)
+MIC,Middle income (MIC)
+LDC,Least developed (LDC)
+SIDS,Small island developing (SIDS)
+EM,Emerging market (EM)
+LLDC,Landlocked developing (LLDC)
+LIDC,Low income developing (LIDC)
+Poorest,Poorest (IDA eligible)
+HIPC,Heavily indebted poor (HIPC)
+Very high HDI,Very high HDI
+High HDI,High HDI
+Medium HDI,Medium HDI
+Low HDI,Low HDI
+South Asia,South Asia (SA)
+Europe & Central Asia,Europe & Central Asia (ECA)
+Middle East & North Africa,Middle East and North Africa (MENA)
+East Asia & Pacific,East Asia & Pacific (EAP)
+Latin America & Caribbean,Latin America & Caribbean (LAC)
+Sub-Saharan Africa,Sub-Saharan Africa (SSA)
