@@ -1,6 +1,6 @@
 graph,year,source,note
-Credit Ratings,2023,"Credit rating based on S&P, Moody’s.",Numerical rating is obtained using the ratings scale in <a href='https://www.undp.org/publications/dfs-avoiding-too-little-too-late-international-debt-relief' class='undp-style small-font' target='_blank'>Jensen (2022)</a> and as a simple average across ratings.
-DSA Ratings,2023,DSA ratings are from the IMF and World Bank Debt Sustainability Analysis (DSA).  ,"DSA ratings are from the latest published DSAs as per November 30, 2023.  "
+Credit Ratings,2023,Credit ratings based on S&P and Moody’s (as of 23 May 2024),Numerical rating is obtained using the ratings scale in <a href='https://www.undp.org/publications/dfs-avoiding-too-little-too-late-international-debt-relief' class='undp-style small-font' target='_blank'>Jensen (2022)</a> and as a simple average across ratings.
+DSA Ratings,2023,DSA ratings based on IMF and World Bank (as of 30 April 2024),
 Government debt as a percentage of GDP,2023,"Based on data from the IMF World Economic Outlook, April 2024",
 Public external debt composition,2022,World Bank International Debt Statistics 2023,Bilateral and multilateral debt equals total official creditor debt. Bonds plus ‘other private’ equals total private creditor debt. 
 Net interest payments,2023,"Based on IMF World Economic Outlook, April 2024",Net interests are calculated as the difference between the overall and primary balance.
