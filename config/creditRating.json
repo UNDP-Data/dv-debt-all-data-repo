@@ -1,0 +1,55 @@
+{
+  "graphType": "donutChart",
+  "filters": [
+    {
+      "column": "group",
+      "label": "Filter by country group",
+      "singleSelect": true,
+      "defaultValue": "All developing"
+    }
+  ],
+  "dataSettings": {
+    "dataURL": "https://raw.githubusercontent.com/UNDP-Data/dv-debt-all-data-repo/refs/heads/main/creditRating1.csv",
+    "fileType": "csv"
+  },
+  "graphDataConfiguration": [
+    {
+      "columnId": "Value",
+      "chartConfigId": "label"
+    },
+    {
+      "columnId": [
+        "investmentGrade_Percentage",
+        "nonInvestmentGrade_Percentage",
+        "highlySpeculative_Percentage",
+        "substantialRiskOrExtremelySpeculative_Percentage",
+        "inDefault_Percentage"
+      ],
+      "chartConfigId": "size"
+    }
+  ],
+  "graphSettings": {
+    "graphTitle": "Credit rating: distribution of countries on rating classes",
+    "backgroundColor": true,
+    "padding": "1.25rem 1.25rem 0.25rem 1.25rem",
+
+    "sources": [
+      {
+        "source": "Credit ratings based on S&P and Moody's (as of 23 May 2024)"
+      }
+    ],
+    "footNote": "Note: Numerical rating is obtained using the ratings scale in <a href='#'>Jensen (2022)</a> and as a simple average across ratings.",
+    "colorDomain": [
+      "Investment grade",
+      "Non-investment grade",
+      "Highly speculative",
+      "Substantial risk or extremely speculative",
+      "In default"
+    ],
+    "colors": ["#FBD68A", "#F39E4B", "#E16424", "#C12705", "#850E02"],
+    "suffix": "%",
+    "graphDownload": true,
+    "dataDownload": true,
+    "tooltip": ""
+  }
+}
