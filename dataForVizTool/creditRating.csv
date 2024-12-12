@@ -1,4 +1,4 @@
-group,investmentGrade_Number,nonInvestmentGrade_Number,highlySpeculative_Number,substantialRiskOrExtremelySpeculative_Number,inDefault_Number,investmentGrade_Percentage,nonInvestmentGrade_Percentage,highlySpeculative_Percentage,substantialRiskOrExtremelySpeculative_Percentage,inDefault_Percentage
+group,investmentGrade_n,nonInvestmentGrade_n,highlySpeculative_n,substantialRiskOrExtremelySpeculative_n,inDefault_n,investmentGrade_perc,nonInvestmentGrade_perc,highlySpeculative_perc,substantialRiskOrExtremelySpeculative_perc,inDefault_perc
 All developing,13,21,28,14,12,14.8,23.9,31.8,15.9,13.6
 Low income (LIC),0,0,5,3,3,0,0,45.5,27.3,27.3
 Lower-middle income (LMC),3,8,15,5,5,8.3,22.2,41.7,13.9,13.9

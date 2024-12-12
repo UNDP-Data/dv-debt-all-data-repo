@@ -1,0 +1,23 @@
+﻿group,low_n,moderate_n,high_n,inDebtDistress_n,low_perc,moderate_perc,high_perc,inDebtDistress_perc
+All developing,7,26,25,9,10.4,38.8,37.3,13.4
+Low income (LIC),0,11,10,3,0,45.8,41.7,12.5
+Lower-middle income (LMC),6,14,9,5,17.6,41.2,26.5,14.7
+Upper-middle income (UMC),1,1,6,1,11.1,11.1,66.7,11.1
+Middle income (MIC),7,14,15,6,16.7,33.3,35.7,14.3
+Least developed (LDC),4,19,15,5,9.3,44.2,34.9,11.6
+Landlocked developing (LLDC),3,8,7,4,13.6,36.4,31.8,18.2
+Small island developing (SIDS),0,5,11,2,0,27.8,61.1,11.1
+Emerging market (EM),0,3,7,1,0,27.3,63.6,9.1
+Low income developing (LIDC),7,23,18,8,12.5,41.1,32.1,14.3
+Poorest (IDA eligible),6,26,25,9,9.1,39.4,37.9,13.6
+Heavily indebted poor (HIPC),1,16,12,5,2.9,47.1,35.3,14.7
+Very high HDI,0,0,0,0,0,0,0,0
+High HDI,2,0,5,1,25,0,62.5,12.5
+Medium HDI,5,10,8,6,17.2,34.5,27.6,20.7
+Low HDI,0,15,12,2,0,51.7,41.4,6.9
+South Asia (SA),2,1,2,0,40,20,40,0
+Europe & Central Asia (ECA),2,1,1,0,50,25,25,0
+Middle East and North Africa (MENA),0,1,1,0,0,50,50,0
+East Asia & Pacific (EAP),2,4,6,1,15.4,30.8,46.2,7.7
+Latin America & Caribbean (LAC),1,2,3,1,14.3,28.6,42.9,14.3
+Sub-Saharan Africa (SSA),0,18,12,7,0,48.6,32.4,18.9

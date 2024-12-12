@@ -1,0 +1,53 @@
+{
+  "graphType": "verticalBarChart",
+  "dataSettings": {
+    "dataURL": "https://raw.githubusercontent.com/UNDP-Data/dv-debt-all-data-repo/refs/heads/main/dataForVizTool/externalDebtService.csv",
+    "fileType": "csv",
+    "delimiter": ","
+  },
+  "graphDataConfiguration": [
+    {
+      "chartConfigId": "label",
+      "columnId": "year"
+    },
+    {
+      "chartConfigId": "size",
+      "columnId": "revenue_n"
+    }
+  ],
+  "dataSelectionOptions": [
+    {
+      "chartConfigId": "size",
+      "ui": "radio",
+      "label": "Select indicator",
+      "allowedColumnIds": [
+        { "label": "Revenue", "value": "revenue_n" },
+        { "label": "Revenue (%)", "value": "revenue_perc" },
+        { "label": "Export", "value": "export_n" },
+        { "label": "Export (%)", "value": "export_perc" }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "column": "group",
+      "width": "100%",
+      "clearable": false,
+      "singleSelect": true,
+      "defaultValue": "All developing"
+    }
+  ],
+  "graphSettings": {
+    "backgroundColor": true,
+    "padding": "1.25rem",
+    "dataDownload": true,
+    "graphDownload": true,
+    "graphTitle": "Number/percentage of countries for which external public total (AMT+INT) debt service exceeds 20% of revenue/exports and primary income 2000 - 2024",
+    "sources": [
+      {
+        "source": "Source: Based on World Bank International Debt Statistics 2023 and IMF World Economic Outlook, April 2024."
+      }
+    ],
+    "footNote": "Note: Percentage refers to the number of countries with debt servicing higher than 20 percent in proportion to all countries with available data within each year of reporting."
+  }
+}

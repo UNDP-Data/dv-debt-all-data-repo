@@ -1,0 +1,49 @@
+{
+  "graphType": "lineChartWithConfidenceInterval",
+  "dataSettings": {
+    "dataURL": "https://raw.githubusercontent.com/UNDP-Data/dv-debt-all-data-repo/refs/heads/main/dataForVizTool/externalDebtQuantiles.csv",
+    "fileType": "csv",
+    "delimiter": ","
+  },
+  "graphDataConfiguration": [
+    {
+      "chartConfigId": "date",
+      "columnId": "year"
+    },
+    {
+      "chartConfigId": "y",
+      "columnId": "externalDebtMedian"
+    },
+    {
+      "chartConfigId": "yMin",
+      "columnId": "externalDebtQ1"
+    },
+    {
+      "chartConfigId": "yMax",
+      "columnId": "externalDebtQ3"
+    }
+  ],
+  "filters": [
+    {
+      "column": "group",
+      "width": "100%",
+      "clearable": false,
+      "singleSelect": true,
+      "defaultValue": "All developing"
+    }
+  ],
+  "graphSettings": {
+    "tooltip": "<div style='display: flex; flex-direction: row; justify-content: space-between; min-width: 200px;'><p class='undp-viz-typography' style='margin:0;'>Median</p><p class='undp-viz-typography' style='margin:0;'><b>{{y}}</b></p></div><div style='display: flex; flex-direction: row; justify-content: space-between; min-width: 200px;'><p class='undp-viz-typography' style='margin:0;'>Interquartile range</p><p class='undp-viz-typography' style='margin:0;'><b>{{yMin}}–{{yMax}}</b></p></div>",
+    "backgroundColor": true,
+    "padding": "1.25rem",
+    "dataDownload": true,
+    "graphDownload": true,
+    "graphTitle": "Public and publicly guaranteed total external debt service as a percentage of revenue",
+    "sources": [
+      {
+        "source": "Source: Based on World Bank International Debt Statistics 2023 and IMF World Economic Outlook, April 2024."
+      }
+    ],
+    "footNote": "Total debt service covers interest and principal payments"
+  }
+}
