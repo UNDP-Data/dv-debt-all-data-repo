@@ -1,7 +1,7 @@
 {
   "graphType": "lineChartWithConfidenceInterval",
   "dataSettings": {
-    "dataURL": "https://raw.githubusercontent.com/UNDP-Data/dv-debt-all-data-repo/refs/heads/main/debtToGDPquantiles1.csv",
+    "dataURL": "https://raw.githubusercontent.com/UNDP-Data/dv-debt-all-data-repo/refs/heads/main/dataForVizTool/governmentDebt.csv",
     "fileType": "csv",
     "delimiter": ","
   },
@@ -12,15 +12,7 @@
     },
     {
       "chartConfigId": "y",
-      "columnId": "externalDebtMedian"
-    },
-    {
-      "chartConfigId": "yMin",
-      "columnId": "externalDebtQ1"
-    },
-    {
-      "chartConfigId": "yMax",
-      "columnId": "externalDebtQ3"
+      "columnId": "externalDebt"
     }
   ],
   "filters": [
@@ -38,8 +30,8 @@
       "ui": "radio",
       "label": "Select indicator",
       "allowedColumnIds": [
-        { "label": "Total", "value": "totalDebtMedian" },
-        { "label": "External", "value": "externalDebtMedian" }
+        { "label": "Total", "value": "totalDebtn" },
+        { "label": "External", "value": "externalDebt" }
       ]
     }
   ],
