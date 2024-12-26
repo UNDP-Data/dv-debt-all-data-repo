@@ -1,83 +1,58 @@
 {
-  "dashboardId": "dashboard-id",
+  "graphType": "donutChart",
   "dataSettings": {
     "dataURL": "https://raw.githubusercontent.com/UNDP-Data/dv-debt-all-data-repo/refs/heads/main/dataForVizTool/creditRating.csv",
-    "keyColumn": "group",
-    "fileType": "csv"
+    "fileType": "csv",
+    "delimiter": ","
   },
-  "readableHeader": [
-    { "value": "investmentGrade_n", "label": "Investment grade" },
+  "graphDataConfiguration": [
     {
-      "value": "nonInvestmentGrade_n",
-      "label": "Non-investment grade"
+      "columnId": "group",
+
+      "chartConfigId": "label"
     },
-    { "value": "highlySpeculative_n", "label": "Highly speculative" },
+
     {
-      "value": "substantialRiskOrExtremelySpeculative_n",
-      "label": "Substantial risk or extremely speculative"
-    },
-    { "value": "inDefault_n", "label": "In default" }
+      "columnId": [
+        "investmentGrade_n",
+        "nonInvestmentGrade_n",
+        "highlySpeculative_n",
+        "substantialRiskOrExtremelySpeculative_n",
+        "inDefault_n"
+      ],
+
+      "chartConfigId": "size"
+    }
   ],
-  "dashboardLayout": {
-    "title": "{{{Credit rating: distribution of countries on rating classes}}}",
-    "backgroundColor": true,
-    "padding": "1.24rem",
-    "rows": [
+  "filters": [
+    {
+      "column": "group",
+      "width": "100%",
+      "clearable": false,
+      "singleSelect": true,
+      "defaultValue": "All developing"
+    }
+  ],
+  "graphSettings": {
+    "graphDownload": true,
+    "dataDownload": true,
+    "bottomMargin": 24,
+    "tooltip": "{{label}} <b>{{size}} countries</b>",
+    "colors": ["#347CBC", "#F6D39E", "#E88666", "#D9382D", "#AA1D09"],
+    "legendMaxWidth": "712px",
+    "suffix": " countries",
+    "sources": [
       {
-        "columns": [
-          {
-            "graphType": "donutChart",
-            "columnWidth": 1,
-            "dataFilters": [
-              {
-                "column": "indicator",
-                "includeValues": [
-                  "Investment grade",
-                  "Non-investment grade",
-                  "Highly speculative",
-                  "Substantial risk or extremely speculative",
-                  "In default"
-                ]
-              }
-            ],
-            "graphDataConfiguration": [
-              {
-                "columnId": "indicator",
-
-                "chartConfigId": "label"
-              },
-
-              {
-                "columnId": "value",
-
-                "chartConfigId": "size"
-              }
-            ],
-            "settings": {
-              "graphDownload": true,
-              "dataDownload": true,
-              "bottomMargin": 24,
-              "tooltip": "{{label}} <b>{{size}} countries</b>",
-              "colors": ["#347CBC", "#F6D39E", "#E88666", "#D9382D", "#AA1D09"],
-              "legendMaxWidth": "712px",
-              "suffix": " countries",
-              "sources": [
-                {
-                  "source": "Credit ratings based on S&P and Moody’s (as of 23 May 2024)"
-                }
-              ],
-              "footNote": "{{{<p class='undp-viz-typography' style='font-size: 14px; color: #55606E; margin: 0;'>Note: Numerical rating is obtained using the ratings scale in <a class='undp-link' style='color: inherit; font-size: inherit;' href='https://www.undp.org/publications/dfs-avoiding-too-little-too-late-international-debt-relief'>Jensen (2022)</a> and as a simple average across ratings.</p>}}}",
-              "colorDomain": [
-                "Investment grade",
-                "Non-investment grade",
-                "Highly speculative",
-                "Substantial risk or extremely speculative",
-                "In default"
-              ]
-            }
-          }
-        ]
+        "source": "Credit ratings based on S&P and Moody’s (as of 23 May 2024)"
       }
+    ],
+    "footNote": "{{{<p class='undp-viz-typography' style='font-size: 14px; color: #55606E; margin: 0;'>Note: Numerical rating is obtained using the ratings scale in <a class='undp-link' style='color: inherit; font-size: inherit;' href='https://www.undp.org/publications/dfs-avoiding-too-little-too-late-international-debt-relief'>Jensen (2022)</a> and as a simple average across ratings.</p>}}}",
+    "colorDomain": [
+      "Investment grade",
+      "Non-investment grade",
+      "Highly speculative",
+      "Substantial risk or extremely speculative",
+      "In default"
     ]
   }
 }
