@@ -1,7 +1,7 @@
 {
   "graphType": "verticalBarChart",
   "dataSettings": {
-    "dataURL": "/externalDebtService.csv",
+    "dataURL": "https://raw.githubusercontent.com/UNDP-Data/dv-debt-all-data-repo/refs/heads/main/data-2024/country-groups/externalDebtService.csv",
     "fileType": "csv",
     "delimiter": ","
   },
