@@ -1,0 +1,46 @@
+{
+  "graphType": "donutChart",
+  "dataSettings": {
+    "dataURL": "/debtComposition.csv",
+    "fileType": "csv",
+    "delimiter": ","
+  },
+  "graphDataConfiguration": [
+    {
+      "columnId": "indicator",
+
+      "chartConfigId": "label"
+    },
+    {
+      "columnId": "value_n",
+
+      "chartConfigId": "size"
+    }
+  ],
+  "filters": [
+    {
+      "column": "group",
+      "width": "100%",
+      "clearable": false,
+      "singleSelect": true,
+      "defaultValue": "All developing"
+    }
+  ],
+  "graphSettings": {
+    "graphDownload": true,
+    "backgroundColor": true,
+    "graphTitle": "Debt composition",
+    "graphDescription": "USD million",
+    "dataDownload": true,
+    "bottomMargin": 24,
+    "tooltip": "<b>{{label}}</b></br>{{data.value_n}} USD million ({{data.value_p}}%)",
+    "legendMaxWidth": "712px",
+    "sources": [
+      {
+        "source": "Based on World Bank International Debt Statistics 2023 "
+      }
+    ],
+    "footNote": "{{{<p class='undp-viz-typography' style='font-size: 14px; color: #55606E; margin: 0;'>Note: Bilateral and multilateral debt equals total official creditor debt. Bonds plus ‘other private’ equals total private creditor debt. </p>}}}",
+    "colorDomain": ["Bilateral", "Multilateral", "Bonds", "Other private"]
+  }
+}

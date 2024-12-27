@@ -1,7 +1,7 @@
 {
   "graphType": "lineChartWithConfidenceInterval",
   "dataSettings": {
-    "dataURL": "https://raw.githubusercontent.com/UNDP-Data/dv-debt-all-data-repo/refs/heads/main/dataForVizTool/debtNetInterestQuantiles.csv",
+    "dataURL": "/netInterestInterval.csv",
     "fileType": "csv",
     "delimiter": ","
   },
@@ -12,15 +12,15 @@
     },
     {
       "chartConfigId": "y",
-      "columnId": "netInterestDebtMedian"
+      "columnId": "netInterest"
     },
     {
       "chartConfigId": "yMin",
-      "columnId": "netInterestDebtQ1"
+      "columnId": "netInterestMin"
     },
     {
       "chartConfigId": "yMax",
-      "columnId": "netInterestDebtQ3"
+      "columnId": "netInterestMax"
     }
   ],
   "filters": [
@@ -33,16 +33,16 @@
     }
   ],
   "graphSettings": {
-    "tooltip": "<div style='display: flex; flex-direction: row; justify-content: space-between; min-width: 200px;'><p class='undp-viz-typography' style='margin:0;'>Median</p><p class='undp-viz-typography' style='margin:0;'><b>{{y}}</b></p></div><div style='display: flex; flex-direction: row; justify-content: space-between; min-width: 200px;'><p class='undp-viz-typography' style='margin:0;'>Interquartile range</p><p class='undp-viz-typography' style='margin:0;'><b>{{yMin}}–{{yMax}}</b></p></div>",
+    "tooltip": "<div style='display: flex; flex-direction: row; justify-content: space-between; min-width: 240px;'><p class='undp-viz-typography' style='margin:0;'>Median</p><p class='undp-viz-typography' style='margin:0;'><b>{{y}}%</b></p></div><div style='display: flex; flex-direction: row; justify-content: space-between; min-width: 240px;'><p class='undp-viz-typography' style='margin:0;'>Interquartile range</p><p class='undp-viz-typography' style='margin:0;'><b>{{yMin}}%–{{yMax}}%</b></p></div>",
     "backgroundColor": true,
     "padding": "1.25rem",
-    "showDots": false,
+    "suffix": "%",
     "dataDownload": true,
     "graphDownload": true,
     "graphTitle": "General government net interest payments as percentage of revenue",
     "sources": [
       {
-        "source": "Source: Based on IMF World Economic Outlook, April 2024"
+        "source": "Based on IMF World Economic Outlook, April 2024"
       }
     ],
     "footNote": "Note: Net interests are calculated as the difference between the overall and primary balance."

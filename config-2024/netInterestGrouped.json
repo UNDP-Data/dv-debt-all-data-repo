@@ -1,0 +1,62 @@
+{
+  "graphType": "verticalGroupedBarChart",
+  "dataSettings": {
+    "dataURL": "/netInterestGrouped.csv",
+    "fileType": "csv",
+    "delimiter": ","
+  },
+  "graphDataConfiguration": [
+    {
+      "columnId": "indicator",
+
+      "chartConfigId": "label"
+    },
+    {
+      "columnId": ["2012-2014_n", "2022-2024_n"],
+
+      "chartConfigId": "size"
+    }
+  ],
+  "advancedDataSelectionOptions": [
+    {
+      "label": "Visualize",
+      "options": [
+        {
+          "value": ["2012-2014_n", "2022-2024_n"],
+          "label": "Number"
+        },
+        {
+          "value": ["2012-2014_p", "2022-2024_p"],
+          "label": "Percentage"
+        }
+      ],
+      "chartConfigId": "size",
+      "ui": "radio"
+    }
+  ],
+  "filters": [
+    {
+      "column": "group",
+      "width": "100%",
+      "clearable": false,
+      "singleSelect": true,
+      "defaultValue": "All developing"
+    }
+  ],
+  "graphSettings": {
+    "graphDownload": true,
+    "backgroundColor": true,
+    "graphTitle": "Number of countries with net interest payments higher than 5 to 40 percent of revenue today relative to a decade ago",
+    "dataDownload": true,
+    "leftMargin": 48,
+    "bottomMargin": 24,
+    "tooltip": "<div style='display: flex; flex-direction: row; justify-content: space-between; min-width: 240px;'><p class='undp-viz-typography' style='margin:0;'><b>{{label}}</b></p></div><div style='display: flex; flex-direction: row; justify-content: space-between; min-width: 240px;'><p class='undp-viz-typography' style='margin:0;'>2012–2014</p><p class='undp-viz-typography' style='margin:0;'><b>{{data.2012-2014_n}} countries ({{data.2012-2014_p}}%)</b></p></div><div style='display: flex; flex-direction: row; justify-content: space-between; min-width: 240px;'><p class='undp-viz-typography' style='margin:0;'>2022–2024</p><p class='undp-viz-typography' style='margin:0;'><b>{{data.2022-2024_n}} countries ({{data.2022-2024_p}}%)</b></p></div>",
+    "sources": [
+      {
+        "source": "Based on IMF World Economic Outlook, April 2024"
+      }
+    ],
+    "footNote": "{{{<p class='undp-viz-typography' style='font-size: 14px; color: #55606E; margin: 0;'>Note: Net interests are calculated as the difference between the overall and primary balance.  Percentage refers to the number of countries with net interest payments higher than 5 to 40 percent of revenue in proportion to all countries with available data within each year of reporting.</p>}}}",
+    "colorDomain": ["2012–2014", "2022–2024"]
+  }
+}

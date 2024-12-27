@@ -1,7 +1,7 @@
 {
   "graphType": "verticalBarChart",
   "dataSettings": {
-    "dataURL": "https://raw.githubusercontent.com/UNDP-Data/dv-debt-all-data-repo/refs/heads/main/dataForVizTool/externalDebtService.csv",
+    "dataURL": "/externalDebtService.csv",
     "fileType": "csv",
     "delimiter": ","
   },
@@ -21,10 +21,10 @@
       "ui": "radio",
       "label": "Select indicator",
       "allowedColumnIds": [
-        { "label": "Revenue", "value": "revenue_n" },
-        { "label": "Revenue (%)", "value": "revenue_perc" },
-        { "label": "Export", "value": "export_n" },
-        { "label": "Export (%)", "value": "export_perc" }
+        { "label": "Revenue (number)", "value": "revenue_n" },
+        { "label": "Revenue (%)", "value": "revenue_p" },
+        { "label": "Export (number)", "value": "export_n" },
+        { "label": "Export (%)", "value": "export_p" }
       ]
     }
   ],
@@ -40,6 +40,8 @@
   "graphSettings": {
     "backgroundColor": true,
     "padding": "1.25rem",
+    "leftMargin": 48,
+    "topMargin": 48,
     "dataDownload": true,
     "graphDownload": true,
     "graphTitle": "Number/percentage of countries for which external public total (AMT+INT) debt service exceeds 20% of revenue/exports and primary income 2000 - 2024",
