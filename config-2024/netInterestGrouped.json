@@ -1,7 +1,7 @@
 {
   "graphType": "verticalGroupedBarChart",
   "dataSettings": {
-    "dataURL": "/netInterestGrouped.csv",
+    "dataURL": "https://raw.githubusercontent.com/UNDP-Data/dv-debt-all-data-repo/refs/heads/main/data-2024/country-groups/netInterestGrouped.csv",
     "fileType": "csv",
     "delimiter": ","
   },

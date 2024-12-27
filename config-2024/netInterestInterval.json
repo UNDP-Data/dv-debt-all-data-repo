@@ -1,7 +1,7 @@
 {
   "graphType": "lineChartWithConfidenceInterval",
   "dataSettings": {
-    "dataURL": "/netInterestInterval.csv",
+    "dataURL": "https://raw.githubusercontent.com/UNDP-Data/dv-debt-all-data-repo/refs/heads/main/data-2024/country-groups/netInterestInterval.csv",
     "fileType": "csv",
     "delimiter": ","
   },

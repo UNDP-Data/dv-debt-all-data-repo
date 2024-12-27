@@ -1,7 +1,7 @@
 {
   "graphType": "donutChart",
   "dataSettings": {
-    "dataURL": "/creditRating.csv",
+    "dataURL": "https://raw.githubusercontent.com/UNDP-Data/dv-debt-all-data-repo/refs/heads/main/data-2024/country-groups/creditRating.csv",
     "fileType": "csv",
     "delimiter": ","
   },

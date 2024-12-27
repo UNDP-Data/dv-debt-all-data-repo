@@ -1,7 +1,7 @@
 {
   "graphType": "lineChartWithConfidenceInterval",
   "dataSettings": {
-    "dataURL": "/externalDebtInterval.csv",
+    "dataURL": "https://raw.githubusercontent.com/UNDP-Data/dv-debt-all-data-repo/refs/heads/main/data-2024/country-groups/externalDebtInterval.csv",
     "fileType": "csv",
     "delimiter": ","
   },
