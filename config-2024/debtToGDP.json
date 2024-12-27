@@ -12,7 +12,7 @@
     },
     {
       "chartConfigId": "y",
-      "columnId": "externalDebt"
+      "columnId": "totalDebt"
     }
   ],
   "filters": [
