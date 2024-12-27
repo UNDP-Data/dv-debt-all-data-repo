@@ -23,8 +23,8 @@
       "allowedColumnIds": [
         { "label": "Revenue (number)", "value": "revenue_n" },
         { "label": "Revenue (%)", "value": "revenue_p" },
-        { "label": "Export (number)", "value": "export_n" },
-        { "label": "Export (%)", "value": "export_p" }
+        { "label": "Export (number)", "value": "exports_n" },
+        { "label": "Export (%)", "value": "exports_p" }
       ]
     }
   ],
