@@ -1,85 +1,85 @@
 group,indicator,value_n,value_p
-All developing,Bilateral,464.02,13.5
-Low income (LIC),Bilateral,46.8,1.4
-Lower-middle income (LMC),Bilateral,311.1,9.0
-Upper-middle income (UMC),Bilateral,106.1,3.1
-Middle income (MIC),Bilateral,415.4,12.1
-Least developed (LDC),Bilateral,113.3,3.3
-Small island developing (SIDS),Bilateral,13.1,0.4
-Emerging market (EM),Bilateral,285.5,8.3
-Low income developing (LIDC),Bilateral,176.4,5.1
-Poorest (IDA eligible),Bilateral,212.5,6.2
-Heavily indebted poor (HIPC),Bilateral,66.2,1.9
-Very high HDI,Bilateral,41.9,1.2
-High HDI,Bilateral,162.2,4.7
-Medium HDI,Bilateral,165.0,4.8
-Low HDI,Bilateral,93.0,2.7
-South Asia (SA),Bilateral,111.7,3.2
-Europe & Central Asia (ECA),Bilateral,54.0,1.6
-Middle East and North Africa (MENA),Bilateral,67.8,2.0
-East Asia & Pacific (EAP),Bilateral,90.9,2.6
-Latin America & Caribbean (LAC),Bilateral,38.2,1.1
-Sub-Saharan Africa (SSA),Bilateral,101.4,2.9
-All developing,Multilateral,859.62,24.9
-Low income (LIC),Multilateral,67.4,2.0
-Lower-middle income (LMC),Multilateral,479.7,13.9
-Upper-middle income (UMC),Multilateral,312.5,9.1
-Middle income (MIC),Multilateral,790.8,22.9
-Least developed (LDC),Multilateral,145.9,4.2
-Small island developing (SIDS),Multilateral,19.7,0.6
-Emerging market (EM),Multilateral,603.6,17.5
-Low income developing (LIDC),Multilateral,254.6,7.4
-Poorest (IDA eligible),Multilateral,281.5,8.2
-Heavily indebted poor (HIPC),Multilateral,125.9,3.7
-Very high HDI,Multilateral,86.1,2.5
-High HDI,Multilateral,373.4,10.8
-Medium HDI,Multilateral,259.9,7.5
-Low HDI,Multilateral,140.0,4.1
-South Asia (SA),Multilateral,160.9,4.7
-Europe & Central Asia (ECA),Multilateral,113.0,3.3
-Middle East and North Africa (MENA),Multilateral,79.2,2.3
-East Asia & Pacific (EAP),Multilateral,137.9,4.0
-Latin America & Caribbean (LAC),Multilateral,208.1,6.0
-Sub-Saharan Africa (SSA),Multilateral,160.5,4.7
-All developing,Bonds,1625.74,47.2
-Low income (LIC),Bonds,6.0,0.2
-Lower-middle income (LMC),Bonds,468.6,13.6
-Upper-middle income (UMC),Bonds,"1,151.2",33.4
-Middle income (MIC),Bonds,"1,619.7",47.0
-Least developed (LDC),Bonds,21.6,0.6
-Small island developing (SIDS),Bonds,35.3,1.0
-Emerging market (EM),Bonds,"1,558.2",45.2
-Low income developing (LIDC),Bonds,67.5,2.0
-Poorest (IDA eligible),Bonds,88.6,2.6
-Heavily indebted poor (HIPC),Bonds,38.4,1.1
-Very high HDI,Bonds,281.3,8.2
-High HDI,Bonds,"1,138.6",33.0
-Medium HDI,Bonds,172.2,5.0
-Low HDI,Bonds,33.6,1.0
-South Asia (SA),Bonds,94.8,2.8
-Europe & Central Asia (ECA),Bonds,222.5,6.5
-Middle East and North Africa (MENA),Bonds,84.3,2.4
-East Asia & Pacific (EAP),Bonds,558.6,16.2
-Latin America & Caribbean (LAC),Bonds,522.3,15.2
-Sub-Saharan Africa (SSA),Bonds,143.2,4.2
-All developing,Other private,497.48,14.4
-Low income (LIC),Other private,16.0,0.5
-Lower-middle income (LMC),Other private,142.5,4.1
-Upper-middle income (UMC),Other private,339.0,9.8
-Middle income (MIC),Other private,481.0,14.0
-Least developed (LDC),Other private,56.8,1.6
-Small island developing (SIDS),Other private,3.3,0.1
-Emerging market (EM),Other private,444.1,12.9
-Low income developing (LIDC),Other private,53.3,1.5
-Poorest (IDA eligible),Other private,63.7,1.8
-Heavily indebted poor (HIPC),Other private,30.5,0.9
-Very high HDI,Other private,109.7,3.2
-High HDI,Other private,262.9,7.6
-Medium HDI,Other private,96.4,2.8
-Low HDI,Other private,28.4,0.8
-South Asia (SA),Other private,51.2,1.5
-Europe & Central Asia (ECA),Other private,116.9,3.4
-Middle East and North Africa (MENA),Other private,25.2,0.7
-East Asia & Pacific (EAP),Other private,96.5,2.8
-Latin America & Caribbean (LAC),Other private,133.0,3.9
-Sub-Saharan Africa (SSA),Other private,74.7,2.2
+All developing,Bilateral,464020000.00,13.5
+Low income (LIC),Bilateral,46800000.0,1.4
+Lower-middle income (LMC),Bilateral,311100000.0,9.0
+Upper-middle income (UMC),Bilateral,106100000.0,3.1
+Middle income (MIC),Bilateral,415400000.0,12.1
+Least developed (LDC),Bilateral,113300000.0,3.3
+Small island developing (SIDS),Bilateral,13100000.0,0.4
+Emerging market (EM),Bilateral,285500000.0,8.3
+Low income developing (LIDC),Bilateral,176400000.0,5.1
+Poorest (IDA eligible),Bilateral,212500000.0,6.2
+Heavily indebted poor (HIPC),Bilateral,66200000.0,1.9
+Very high HDI,Bilateral,41900000.0,1.2
+High HDI,Bilateral,162200000.0,4.7
+Medium HDI,Bilateral,165000000.0,4.8
+Low HDI,Bilateral,93000000.0,2.7
+South Asia (SA),Bilateral,111700000.0,3.2
+Europe & Central Asia (ECA),Bilateral,54000000.0,1.6
+Middle East and North Africa (MENA),Bilateral,67800000.0,2.0
+East Asia & Pacific (EAP),Bilateral,90900000.0,2.6
+Latin America & Caribbean (LAC),Bilateral,38200000.0,1.1
+Sub-Saharan Africa (SSA),Bilateral,101400000.0,2.9
+All developing,Multilateral,859620000.00,24.9
+Low income (LIC),Multilateral,67400000.0,2.0
+Lower-middle income (LMC),Multilateral,479700000.0,13.9
+Upper-middle income (UMC),Multilateral,312500000.0,9.1
+Middle income (MIC),Multilateral,790800000.0,22.9
+Least developed (LDC),Multilateral,145900000.0,4.2
+Small island developing (SIDS),Multilateral,19700000.0,0.6
+Emerging market (EM),Multilateral,603600000.0,17.5
+Low income developing (LIDC),Multilateral,254600000.0,7.4
+Poorest (IDA eligible),Multilateral,281500000.0,8.2
+Heavily indebted poor (HIPC),Multilateral,125900000.0,3.7
+Very high HDI,Multilateral,86100000.0,2.5
+High HDI,Multilateral,373400000.0,10.8
+Medium HDI,Multilateral,259900000.0,7.5
+Low HDI,Multilateral,140000000.0,4.1
+South Asia (SA),Multilateral,160900000.0,4.7
+Europe & Central Asia (ECA),Multilateral,113000000.0,3.3
+Middle East and North Africa (MENA),Multilateral,79200000.0,2.3
+East Asia & Pacific (EAP),Multilateral,137900000.0,4.0
+Latin America & Caribbean (LAC),Multilateral,208100000.0,6.0
+Sub-Saharan Africa (SSA),Multilateral,160500000.0,4.7
+All developing,Bonds,1625740000.00,47.2
+Low income (LIC),Bonds,6000000.0,0.2
+Lower-middle income (LMC),Bonds,468600000.0,13.6
+Upper-middle income (UMC),Bonds,"1,151,200,000.0",33.4
+Middle income (MIC),Bonds,"1,619,700,000.0",47.0
+Least developed (LDC),Bonds,21600000.0,0.6
+Small island developing (SIDS),Bonds,35300000.0,1.0
+Emerging market (EM),Bonds,"1,558,200,000.0",45.2
+Low income developing (LIDC),Bonds,67500000.0,2.0
+Poorest (IDA eligible),Bonds,88600000.0,2.6
+Heavily indebted poor (HIPC),Bonds,38400000.0,1.1
+Very high HDI,Bonds,281300000.0,8.2
+High HDI,Bonds,"1,138,600,000.0",33.0
+Medium HDI,Bonds,172200000.0,5.0
+Low HDI,Bonds,33600000.0,1.0
+South Asia (SA),Bonds,94800000.0,2.8
+Europe & Central Asia (ECA),Bonds,222500000.0,6.5
+Middle East and North Africa (MENA),Bonds,84300000.0,2.4
+East Asia & Pacific (EAP),Bonds,558600000.0,16.2
+Latin America & Caribbean (LAC),Bonds,522300000.0,15.2
+Sub-Saharan Africa (SSA),Bonds,143200000.0,4.2
+All developing,Other private,497480000.00,14.4
+Low income (LIC),Other private,16000000.0,0.5
+Lower-middle income (LMC),Other private,142500000.0,4.1
+Upper-middle income (UMC),Other private,339000000.0,9.8
+Middle income (MIC),Other private,481000000.0,14.0
+Least developed (LDC),Other private,56800000.0,1.6
+Small island developing (SIDS),Other private,3300000.0,0.1
+Emerging market (EM),Other private,444100000.0,12.9
+Low income developing (LIDC),Other private,53300000.0,1.5
+Poorest (IDA eligible),Other private,63700000.0,1.8
+Heavily indebted poor (HIPC),Other private,30500000.0,0.9
+Very high HDI,Other private,109700000.0,3.2
+High HDI,Other private,262900000.0,7.6
+Medium HDI,Other private,96400000.0,2.8
+Low HDI,Other private,28400000.0,0.8
+South Asia (SA),Other private,51200000.0,1.5
+Europe & Central Asia (ECA),Other private,116900000.0,3.4
+Middle East and North Africa (MENA),Other private,25200000.0,0.7
+East Asia & Pacific (EAP),Other private,96500000.0,2.8
+Latin America & Caribbean (LAC),Other private,133000000.0,3.9
+Sub-Saharan Africa (SSA),Other private,74700000.0,2.2

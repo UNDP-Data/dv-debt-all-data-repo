@@ -2,6 +2,6 @@ graph,year,source,note
 Credit Ratings,2024,Credit ratings based on S&P and Moody’s (as of 31 December 2024),Numerical rating is obtained using the ratings scale in <a href='https://www.undp.org/publications/dfs-avoiding-too-little-too-late-international-debt-relief' class='undp-style small-font' target='_blank'>Jensen (2022)</a> and as a simple average across ratings.
 DSA Ratings,2024,DSA ratings based on IMF and World Bank (as of 31 December 2024),
 Government debt as a percentage of GDP,2024,"Based on data from the IMF World Economic Outlook, October 2024",
-Public external debt composition,2024,World Bank International Debt Statistics 2024,Bilateral and multilateral debt equals total official creditor debt. Bonds plus ‘other private’ equals total private creditor debt. 
+Public external debt composition,2023,World Bank International Debt Statistics 2024,Bilateral and multilateral debt equals total official creditor debt. Bonds plus ‘other private’ equals total private creditor debt. 
 Net interest payments,2024,"Based on IMF World Economic Outlook, October 2024",Net interests are calculated as the difference between the overall and primary balance.
 Total debt service,2024,"Based on IMF World Economic Outlook, October 2024 and World Bank International Debts Statistics 2024 (www.tradingeconomics.com).  ",Total debt servicing covers interest plus principal payments. 

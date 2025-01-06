@@ -32,13 +32,13 @@
     "graphTitle": "Credit rating: distribution of countries on rating classes",
     "dataDownload": true,
     "bottomMargin": 24,
-    "tooltip": "<b>{{label}}</b></br>{{data.value_p}}%</br>{{data.value_n}} countries",
+    "tooltip": "<b>{{label}}:</b> {{data.value_p}}% ({{data.value_n}} countries)",
     "colors": ["#347CBC", "#F6D39E", "#E88666", "#D9382D", "#AA1D09"],
     "legendMaxWidth": "712px",
     "suffix": "%",
     "sources": [
       {
-        "source": "Credit ratings based on S&P and Moody’s (as of 23 May 2024)"
+        "source": "Credit ratings based on S&P and Moody’s (as of 31 December 2024)"
       }
     ],
     "footNote": "{{{<p class='undp-viz-typography' style='font-size: 14px; color: #55606E; margin: 0;'>Note: Numerical rating is obtained using the ratings scale in <a class='undp-link' style='color: inherit; font-size: inherit;' href='https://www.undp.org/publications/dfs-avoiding-too-little-too-late-international-debt-relief'>Jensen (2022)</a> and as a simple average across ratings.</p>}}}",

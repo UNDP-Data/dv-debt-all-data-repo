@@ -15,17 +15,41 @@
       "columnId": "revenue_n"
     }
   ],
-  "dataSelectionOptions": [
+  "advancedDataSelectionOptions": [
     {
-      "chartConfigId": "size",
-      "ui": "radio",
       "label": "Select indicator",
-      "allowedColumnIds": [
-        { "label": "Revenue (number)", "value": "revenue_n" },
-        { "label": "Revenue (%)", "value": "revenue_p" },
-        { "label": "Export (number)", "value": "exports_n" },
-        { "label": "Export (%)", "value": "exports_p" }
-      ]
+      "options": [
+        {
+          "value": ["revenue_n"],
+          "label": "Revenue (number)",
+          "graphSettings": {
+            "suffix": ""
+          }
+        },
+        {
+          "value": ["revenue_p"],
+          "label": "Revenue (%)",
+          "graphSettings": {
+            "suffix": " %"
+          }
+        },
+        {
+          "value": ["exports_n"],
+          "label": "Exports (number)",
+          "graphSettings": {
+            "suffix": ""
+          }
+        },
+        {
+          "value": ["exports_p"],
+          "label": "Exports (%)",
+          "graphSettings": {
+            "suffix": " %"
+          }
+        }
+      ],
+      "chartConfigId": "size",
+      "ui": "radio"
     }
   ],
   "filters": [
@@ -41,13 +65,14 @@
     "backgroundColor": true,
     "padding": "1.25rem",
     "leftMargin": 48,
+    "valueColor": "#000",
     "topMargin": 48,
     "dataDownload": true,
     "graphDownload": true,
-    "graphTitle": "Number/percentage of countries for which external public total (AMT+INT) debt service exceeds 20% of revenue/exports and primary income 2000 - 2024",
+    "graphTitle": "Number/percentage of countries for which external public total (AMT+INT) debt service exceeds 20% of revenue/exports and primary income 2000–2024",
     "sources": [
       {
-        "source": "Source: Based on World Bank International Debt Statistics 2023 and IMF World Economic Outlook, April 2024."
+        "source": "Source: Based on World Bank International Debt Statistics 2024 and IMF World Economic Outlook, October 2024."
       }
     ],
     "footNote": "Note: Percentage refers to the number of countries with debt servicing higher than 20 percent in proportion to all countries with available data within each year of reporting."
