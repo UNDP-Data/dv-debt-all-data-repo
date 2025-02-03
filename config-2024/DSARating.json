@@ -42,7 +42,6 @@
         "source": "DSA ratings based on IMF and World Bank (as of 31 December 2024)"
       }
     ],
-    "footNote": "{{{<p class='undp-viz-typography' style='font-size: 14px; color: #55606E; margin: 0;'>Note: Numerical rating is obtained using the ratings scale in <a class='undp-link' style='color: inherit; font-size: inherit;' href='https://www.undp.org/publications/dfs-avoiding-too-little-too-late-international-debt-relief'>Jensen (2022)</a> and as a simple average across ratings.</p>}}}",
     "colorDomain": ["Low", "Moderate", "High", "In debt distress"]
   }
 }

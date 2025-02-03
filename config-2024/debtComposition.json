@@ -29,7 +29,7 @@
   "graphSettings": {
     "graphDownload": true,
     "backgroundColor": true,
-    "graphTitle": "Debt composition",
+    "graphTitle": "External public debt composition",
     "prefix": "$",
     "dataDownload": true,
     "bottomMargin": 24,

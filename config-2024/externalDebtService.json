@@ -69,7 +69,7 @@
     "topMargin": 48,
     "dataDownload": true,
     "graphDownload": true,
-    "graphTitle": "Number/percentage of countries for which external public total (AMT+INT) debt service exceeds 20% of revenue/exports and primary income 2000–2024",
+    "graphTitle": "Number/percentage of countries for which external public total (AMT+INT) debt service exceeds 20% of revenue/exports and primary income (2000–2025)",
     "sources": [
       {
         "source": "Source: Based on World Bank International Debt Statistics 2024 and IMF World Economic Outlook, October 2024."

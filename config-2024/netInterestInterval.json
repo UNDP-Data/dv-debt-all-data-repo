@@ -44,7 +44,7 @@
     "colorLegendDomains": ["Median", "Interquartile range"],
     "noOfYTicks": 8,
     "graphDownload": true,
-    "graphTitle": "General government net interest payments as percentage of revenue",
+    "graphTitle": "General government net interest payments as percentage of revenue (2000–2025)",
     "sources": [
       {
         "source": "Based on IMF World Economic Outlook, October 2024"

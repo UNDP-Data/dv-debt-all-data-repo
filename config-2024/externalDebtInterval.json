@@ -44,7 +44,7 @@
     "colorLegendColors": ["#006eb5", "#b5d5f5"],
     "colorLegendDomains": ["Median", "Interquartile range"],
     "graphDownload": true,
-    "graphTitle": "Public and publicly guaranteed total external debt service as a percentage of revenue",
+    "graphTitle": "Public and publicly guaranteed total external debt service as a percentage of revenue (2000–2025)",
     "sources": [
       {
         "source": "Source: Based on World Bank International Debt Statistics 2024 and IMF World Economic Outlook, October 2024."
