@@ -23,8 +23,8 @@ All developing,2020,24,20.87,16.00,14.16
 All developing,2021,20,17.39,13.00,11.61
 All developing,2022,12,10.43,2.00,1.80
 All developing,2023,15,13.16,4.00,3.64
-All developing,2024,26,23.21,..,..
-All developing,2025,24.00,21.62,..,..
+All developing,2024,26,23.21,,
+All developing,2025,24.00,21.62,,
 Low-income (LIC),2000,0.00,0.00,2.00,13.33
 Low-income (LIC),2001,0.00,0.00,2.00,13.33
 Low-income (LIC),2002,1.00,4.76,1.00,6.67
@@ -49,8 +49,8 @@ Low-income (LIC),2020,1.00,4.55,2.00,9.52
 Low-income (LIC),2021,1.00,4.55,4.00,20.00
 Low-income (LIC),2022,1.00,4.55,0.00,0.00
 Low-income (LIC),2023,0.00,0.00,0.00,0.00
-Low-income (LIC),2024,5.00,23.81,..,..
-Low-income (LIC),2025,3.00,14.29,..,..
+Low-income (LIC),2024,5.00,23.81,,
+Low-income (LIC),2025,3.00,14.29,,
 Lower-middle income (LMC),2000,13.00,28.26,4.00,10.26
 Lower-middle income (LMC),2001,9.00,19.57,3.00,7.69
 Lower-middle income (LMC),2002,7.00,15.22,3.00,7.32
@@ -75,8 +75,8 @@ Lower-middle income (LMC),2020,11.00,22.92,7.00,14.58
 Lower-middle income (LMC),2021,10.00,20.83,5.00,10.42
 Lower-middle income (LMC),2022,7.00,14.58,2.00,4.17
 Lower-middle income (LMC),2023,9.00,19.15,4.00,8.33
-Lower-middle income (LMC),2024,16.00,34.78,..,..
-Lower-middle income (LMC),2025,16.00,35.56,..,..
+Lower-middle income (LMC),2024,16.00,34.78,,
+Lower-middle income (LMC),2025,16.00,35.56,,
 Upper-middle income (UMC),2000,12.00,29.27,6.00,15.00
 Upper-middle income (UMC),2001,10.00,23.26,7.00,17.07
 Upper-middle income (UMC),2002,12.00,27.91,7.00,17.07
@@ -101,8 +101,8 @@ Upper-middle income (UMC),2020,12.00,26.67,7.00,15.91
 Upper-middle income (UMC),2021,9.00,20.00,4.00,9.09
 Upper-middle income (UMC),2022,4.00,8.89,0.00,0.00
 Upper-middle income (UMC),2023,6.00,13.33,0.00,0.00
-Upper-middle income (UMC),2024,5.00,11.11,..,..
-Upper-middle income (UMC),2025,5.00,11.11,..,..
+Upper-middle income (UMC),2024,5.00,11.11,,
+Upper-middle income (UMC),2025,5.00,11.11,,
 Middle-income (MIC),2000,25.00,28.74,10.00,12.66
 Middle-income (MIC),2001,19.00,21.35,10.00,12.50
 Middle-income (MIC),2002,19.00,21.35,10.00,12.20
@@ -127,8 +127,8 @@ Middle-income (MIC),2020,23.00,24.73,14.00,15.22
 Middle-income (MIC),2021,19.00,20.43,9.00,9.78
 Middle-income (MIC),2022,11.00,11.83,2.00,2.20
 Middle-income (MIC),2023,15.00,16.30,4.00,4.40
-Middle-income (MIC),2024,21.00,23.08,..,..
-Middle-income (MIC),2025,21.00,23.33,..,..
+Middle-income (MIC),2024,21.00,23.08,,
+Middle-income (MIC),2025,21.00,23.33,,
 Least developed (LDC),2000,4.00,10.53,4.00,13.33
 Least developed (LDC),2001,4.00,10.53,4.00,13.33
 Least developed (LDC),2002,3.00,7.69,2.00,6.67
@@ -153,8 +153,8 @@ Least developed (LDC),2020,3.00,7.32,3.00,7.50
 Least developed (LDC),2021,4.00,9.76,5.00,12.82
 Least developed (LDC),2022,3.00,7.32,0.00,0.00
 Least developed (LDC),2023,2.00,4.88,1.00,2.63
-Least developed (LDC),2024,12.00,30.00,..,..
-Least developed (LDC),2025,9.00,22.50,..,..
+Least developed (LDC),2024,12.00,30.00,,
+Least developed (LDC),2025,9.00,22.50,,
 Landlocked developing (LLDC),2000,1.00,3.57,1.00,4.35
 Landlocked developing (LLDC),2001,3.00,10.71,1.00,4.35
 Landlocked developing (LLDC),2002,2.00,6.90,1.00,4.17
@@ -179,8 +179,8 @@ Landlocked developing (LLDC),2020,4.00,12.90,1.00,3.33
 Landlocked developing (LLDC),2021,4.00,12.90,2.00,6.90
 Landlocked developing (LLDC),2022,2.00,6.45,0.00,0.00
 Landlocked developing (LLDC),2023,2.00,6.45,0.00,0.00
-Landlocked developing (LLDC),2024,4.00,13.33,..,..
-Landlocked developing (LLDC),2025,5.00,16.67,..,..
+Landlocked developing (LLDC),2024,4.00,13.33,,
+Landlocked developing (LLDC),2025,5.00,16.67,,
 Small island developing (SIDS),2000,3.00,15.00,1.00,6.25
 Small island developing (SIDS),2001,3.00,15.00,2.00,11.11
 Small island developing (SIDS),2002,4.00,20.00,3.00,16.67
@@ -205,8 +205,8 @@ Small island developing (SIDS),2020,5.00,23.81,4.00,19.05
 Small island developing (SIDS),2021,3.00,14.29,3.00,14.29
 Small island developing (SIDS),2022,3.00,14.29,0.00,0.00
 Small island developing (SIDS),2023,4.00,19.05,0.00,0.00
-Small island developing (SIDS),2024,5.00,23.81,..,..
-Small island developing (SIDS),2025,4.00,19.05,..,..
+Small island developing (SIDS),2024,5.00,23.81,,
+Small island developing (SIDS),2025,4.00,19.05,,
 Emerging market (EM),2000,19.00,34.55,9.00,17.31
 Emerging market (EM),2001,15.00,26.32,9.00,16.98
 Emerging market (EM),2002,16.00,28.07,9.00,16.67
@@ -231,8 +231,8 @@ Emerging market (EM),2020,17.00,28.81,13.00,22.41
 Emerging market (EM),2021,15.00,25.42,9.00,15.52
 Emerging market (EM),2022,9.00,15.25,1.00,1.75
 Emerging market (EM),2023,11.00,18.97,3.00,5.26
-Emerging market (EM),2024,10.00,17.54,..,..
-Emerging market (EM),2025,10.00,17.86,..,..
+Emerging market (EM),2024,10.00,17.54,,
+Emerging market (EM),2025,10.00,17.86,,
 Low income developing (LIDC),2000,6.00,11.54,3.00,7.14
 Low income developing (LIDC),2001,4.00,7.69,3.00,7.14
 Low income developing (LIDC),2002,4.00,7.55,2.00,4.65
@@ -257,34 +257,34 @@ Low income developing (LIDC),2020,7.00,12.50,3.00,5.45
 Low income developing (LIDC),2021,5.00,8.93,4.00,7.41
 Low income developing (LIDC),2022,3.00,5.36,1.00,1.85
 Low income developing (LIDC),2023,4.00,7.14,1.00,1.89
-Low income developing (LIDC),2024,16.00,29.09,..,..
-Low income developing (LIDC),2025,14.00,25.45,..,..
-Poorest,2000,7.00,11.29,3.00,6.00
-Poorest,2001,5.00,8.06,3.00,5.88
-Poorest,2002,4.00,6.35,2.00,3.85
-Poorest,2003,4.00,6.35,3.00,5.56
-Poorest,2004,5.00,7.94,2.00,3.57
-Poorest,2005,3.00,4.69,2.00,3.39
-Poorest,2006,3.00,4.62,1.00,1.61
-Poorest,2007,6.00,9.23,3.00,4.84
-Poorest,2008,3.00,4.55,0.00,0.00
-Poorest,2009,0.00,0.00,0.00,0.00
-Poorest,2010,0.00,0.00,0.00,0.00
-Poorest,2011,0.00,0.00,0.00,0.00
-Poorest,2012,3.00,4.55,1.00,1.56
-Poorest,2013,0.00,0.00,0.00,0.00
-Poorest,2014,3.00,4.41,0.00,0.00
-Poorest,2015,3.00,4.41,0.00,0.00
-Poorest,2016,1.00,1.47,0.00,0.00
-Poorest,2017,4.00,5.88,1.00,1.56
-Poorest,2018,5.00,7.35,2.00,3.13
-Poorest,2019,9.00,13.24,4.00,6.06
-Poorest,2020,11.00,16.42,7.00,10.61
-Poorest,2021,8.00,11.94,7.00,10.77
-Poorest,2022,6.00,8.96,2.00,3.08
-Poorest,2023,6.00,9.09,2.00,3.13
-Poorest,2024,19.00,29.23,..,..
-Poorest,2025,16.00,25.00,..,..
+Low income developing (LIDC),2024,16.00,29.09,,
+Low income developing (LIDC),2025,14.00,25.45,,
+Poorest (IDA eligible),2000,7.00,11.29,3.00,6.00
+Poorest (IDA eligible),2001,5.00,8.06,3.00,5.88
+Poorest (IDA eligible),2002,4.00,6.35,2.00,3.85
+Poorest (IDA eligible),2003,4.00,6.35,3.00,5.56
+Poorest (IDA eligible),2004,5.00,7.94,2.00,3.57
+Poorest (IDA eligible),2005,3.00,4.69,2.00,3.39
+Poorest (IDA eligible),2006,3.00,4.62,1.00,1.61
+Poorest (IDA eligible),2007,6.00,9.23,3.00,4.84
+Poorest (IDA eligible),2008,3.00,4.55,0.00,0.00
+Poorest (IDA eligible),2009,0.00,0.00,0.00,0.00
+Poorest (IDA eligible),2010,0.00,0.00,0.00,0.00
+Poorest (IDA eligible),2011,0.00,0.00,0.00,0.00
+Poorest (IDA eligible),2012,3.00,4.55,1.00,1.56
+Poorest (IDA eligible),2013,0.00,0.00,0.00,0.00
+Poorest (IDA eligible),2014,3.00,4.41,0.00,0.00
+Poorest (IDA eligible),2015,3.00,4.41,0.00,0.00
+Poorest (IDA eligible),2016,1.00,1.47,0.00,0.00
+Poorest (IDA eligible),2017,4.00,5.88,1.00,1.56
+Poorest (IDA eligible),2018,5.00,7.35,2.00,3.13
+Poorest (IDA eligible),2019,9.00,13.24,4.00,6.06
+Poorest (IDA eligible),2020,11.00,16.42,7.00,10.61
+Poorest (IDA eligible),2021,8.00,11.94,7.00,10.77
+Poorest (IDA eligible),2022,6.00,8.96,2.00,3.08
+Poorest (IDA eligible),2023,6.00,9.09,2.00,3.13
+Poorest (IDA eligible),2024,19.00,29.23,,
+Poorest (IDA eligible),2025,16.00,25.00,,
 Heavily indebted poor (HIPC),2000,6.00,18.18,3.00,11.54
 Heavily indebted poor (HIPC),2001,2.00,6.06,3.00,11.11
 Heavily indebted poor (HIPC),2002,3.00,8.82,2.00,7.41
@@ -309,8 +309,8 @@ Heavily indebted poor (HIPC),2020,4.00,11.43,1.00,2.86
 Heavily indebted poor (HIPC),2021,3.00,8.57,3.00,8.82
 Heavily indebted poor (HIPC),2022,2.00,5.71,0.00,0.00
 Heavily indebted poor (HIPC),2023,3.00,8.57,0.00,0.00
-Heavily indebted poor (HIPC),2024,10.00,29.41,..,..
-Heavily indebted poor (HIPC),2025,9.00,26.47,..,..
+Heavily indebted poor (HIPC),2024,10.00,29.41,,
+Heavily indebted poor (HIPC),2025,9.00,26.47,,
 Very high HDI,2000,4.00,50.00,1.00,12.50
 Very high HDI,2001,2.00,22.22,2.00,25.00
 Very high HDI,2002,3.00,33.33,0.00,0.00
@@ -335,8 +335,8 @@ Very high HDI,2020,3.00,30.00,1.00,10.00
 Very high HDI,2021,2.00,20.00,0.00,0.00
 Very high HDI,2022,0.00,0.00,0.00,0.00
 Very high HDI,2023,1.00,10.00,0.00,0.00
-Very high HDI,2024,1.00,10.00,..,..
-Very high HDI,2025,1.00,10.00,..,..
+Very high HDI,2024,1.00,10.00,,
+Very high HDI,2025,1.00,10.00,,
 High HDI,2000,11.00,29.73,6.00,18.18
 High HDI,2001,9.00,23.68,4.00,11.76
 High HDI,2002,10.00,26.32,7.00,20.00
@@ -361,8 +361,8 @@ High HDI,2020,12.00,31.58,10.00,27.03
 High HDI,2021,10.00,26.32,6.00,16.22
 High HDI,2022,6.00,15.79,0.00,0.00
 High HDI,2023,6.00,16.22,1.00,2.78
-High HDI,2024,5.00,13.89,..,..
-High HDI,2025,7.00,19.44,..,..
+High HDI,2024,5.00,13.89,,
+High HDI,2025,7.00,19.44,,
 Medium HDI,2000,8.00,24.24,3.00,10.34
 Medium HDI,2001,6.00,18.18,4.00,13.79
 Medium HDI,2002,5.00,15.15,3.00,10.00
@@ -387,8 +387,8 @@ Medium HDI,2020,7.00,20.00,2.00,5.71
 Medium HDI,2021,4.00,11.43,2.00,5.71
 Medium HDI,2022,4.00,11.43,1.00,2.86
 Medium HDI,2023,6.00,17.14,2.00,5.71
-Medium HDI,2024,11.00,31.43,..,..
-Medium HDI,2025,10.00,28.57,..,..
+Medium HDI,2024,11.00,31.43,,
+Medium HDI,2025,10.00,28.57,,
 Low HDI,2000,2.00,6.90,2.00,8.33
 Low HDI,2001,2.00,6.90,2.00,8.33
 Low HDI,2002,2.00,6.67,1.00,4.17
@@ -413,8 +413,8 @@ Low HDI,2020,1.00,3.33,2.00,6.90
 Low HDI,2021,4.00,13.33,5.00,17.86
 Low HDI,2022,2.00,6.67,1.00,3.57
 Low HDI,2023,2.00,6.67,1.00,3.70
-Low HDI,2024,9.00,31.03,..,..
-Low HDI,2025,6.00,21.43,..,..
+Low HDI,2024,9.00,31.03,,
+Low HDI,2025,6.00,21.43,,
 South Asia (SA),2000,1.00,14.29,0.00,0.00
 South Asia (SA),2001,0.00,0.00,0.00,0.00
 South Asia (SA),2002,0.00,0.00,0.00,0.00
@@ -439,8 +439,8 @@ South Asia (SA),2020,3.00,37.50,2.00,25.00
 South Asia (SA),2021,3.00,37.50,2.00,28.57
 South Asia (SA),2022,3.00,37.50,1.00,14.29
 South Asia (SA),2023,1.00,14.29,1.00,14.29
-South Asia (SA),2024,3.00,50.00,..,..
-South Asia (SA),2025,2.00,40.00,..,..
+South Asia (SA),2024,3.00,50.00,,
+South Asia (SA),2025,2.00,40.00,,
 Europe & Central Asia (ECA),2000,1.00,6.67,0.00,0.00
 Europe & Central Asia (ECA),2001,2.00,12.50,1.00,8.33
 Europe & Central Asia (ECA),2002,2.00,12.50,0.00,0.00
@@ -465,8 +465,8 @@ Europe & Central Asia (ECA),2020,4.00,22.22,1.00,5.88
 Europe & Central Asia (ECA),2021,4.00,22.22,0.00,0.00
 Europe & Central Asia (ECA),2022,0.00,0.00,0.00,0.00
 Europe & Central Asia (ECA),2023,0.00,0.00,0.00,0.00
-Europe & Central Asia (ECA),2024,0.00,0.00,..,..
-Europe & Central Asia (ECA),2025,2.00,11.11,..,..
+Europe & Central Asia (ECA),2024,0.00,0.00,,
+Europe & Central Asia (ECA),2025,2.00,11.11,,
 Middle East and North Africa (MENA),2000,5.00,55.56,3.00,37.50
 Middle East and North Africa (MENA),2001,4.00,44.44,2.00,25.00
 Middle East and North Africa (MENA),2002,3.00,33.33,3.00,33.33
@@ -491,8 +491,8 @@ Middle East and North Africa (MENA),2020,2.00,22.22,3.00,37.50
 Middle East and North Africa (MENA),2021,3.00,33.33,2.00,25.00
 Middle East and North Africa (MENA),2022,2.00,22.22,0.00,0.00
 Middle East and North Africa (MENA),2023,2.00,22.22,1.00,12.50
-Middle East and North Africa (MENA),2024,4.00,50.00,..,..
-Middle East and North Africa (MENA),2025,5.00,62.50,..,..
+Middle East and North Africa (MENA),2024,4.00,50.00,,
+Middle East and North Africa (MENA),2025,5.00,62.50,,
 East Asia & Pacific (EAP),2000,3.00,20.00,0.00,0.00
 East Asia & Pacific (EAP),2001,3.00,20.00,0.00,0.00
 East Asia & Pacific (EAP),2002,2.00,13.33,0.00,0.00
@@ -517,8 +517,8 @@ East Asia & Pacific (EAP),2020,5.00,31.25,0.00,0.00
 East Asia & Pacific (EAP),2021,2.00,12.50,0.00,0.00
 East Asia & Pacific (EAP),2022,2.00,12.50,0.00,0.00
 East Asia & Pacific (EAP),2023,2.00,12.50,0.00,0.00
-East Asia & Pacific (EAP),2024,2.00,12.50,..,..
-East Asia & Pacific (EAP),2025,1.00,6.25,..,..
+East Asia & Pacific (EAP),2024,2.00,12.50,,
+East Asia & Pacific (EAP),2025,1.00,6.25,,
 Latin America & Caribbean (LAC),2000,7.00,35.00,5.00,23.81
 Latin America & Caribbean (LAC),2001,5.00,23.81,5.00,23.81
 Latin America & Caribbean (LAC),2002,7.00,33.33,6.00,28.57
@@ -543,8 +543,8 @@ Latin America & Caribbean (LAC),2020,4.00,19.05,5.00,23.81
 Latin America & Caribbean (LAC),2021,2.00,9.52,4.00,19.05
 Latin America & Caribbean (LAC),2022,2.00,9.52,0.00,0.00
 Latin America & Caribbean (LAC),2023,3.00,14.29,0.00,0.00
-Latin America & Caribbean (LAC),2024,1.00,4.76,..,..
-Latin America & Caribbean (LAC),2025,1.00,4.76,..,..
+Latin America & Caribbean (LAC),2024,1.00,4.76,,
+Latin America & Caribbean (LAC),2025,1.00,4.76,,
 Sub-Saharan Africa (SSA),2000,8.00,19.51,4.00,11.76
 Sub-Saharan Africa (SSA),2001,5.00,12.20,4.00,11.76
 Sub-Saharan Africa (SSA),2002,6.00,14.29,2.00,5.88
@@ -569,5 +569,5 @@ Sub-Saharan Africa (SSA),2020,6.00,13.95,5.00,11.63
 Sub-Saharan Africa (SSA),2021,6.00,13.95,5.00,11.63
 Sub-Saharan Africa (SSA),2022,3.00,6.98,1.00,2.38
 Sub-Saharan Africa (SSA),2023,7.00,16.28,2.00,4.88
-Sub-Saharan Africa (SSA),2024,16.00,37.21,..,..
+Sub-Saharan Africa (SSA),2024,16.00,37.21,,
 Sub-Saharan Africa (SSA),2025,13.00,30.23,,
