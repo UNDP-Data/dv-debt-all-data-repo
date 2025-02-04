@@ -23,14 +23,16 @@
           "value": ["revenue_n"],
           "label": "Revenue (number)",
           "graphSettings": {
-            "suffix": ""
+            "suffix": "",
+            "barAxisTitle": "Number of countries"
           }
         },
         {
           "value": ["revenue_p"],
           "label": "Revenue (%)",
           "graphSettings": {
-            "suffix": " %"
+            "suffix": " %",
+            "barAxisTitle": "Percentage of countries"
           }
         },
         {
