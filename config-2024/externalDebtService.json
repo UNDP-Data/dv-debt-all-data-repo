@@ -31,7 +31,6 @@
           "value": ["revenue_p"],
           "label": "Revenue (%)",
           "graphSettings": {
-            "suffix": " %",
             "barAxisTitle": "Percentage of countries"
           }
         },
@@ -47,7 +46,6 @@
           "value": ["exports_p"],
           "label": "Exports (%)",
           "graphSettings": {
-            "suffix": " %",
             "barAxisTitle": "Percentage of countries"
           }
         }
