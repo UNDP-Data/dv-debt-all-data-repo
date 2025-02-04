@@ -37,14 +37,16 @@
           "value": ["exports_n"],
           "label": "Exports (number)",
           "graphSettings": {
-            "suffix": ""
+            "suffix": "",
+            "barAxisTitle": "Number of countries"
           }
         },
         {
           "value": ["exports_p"],
           "label": "Exports (%)",
           "graphSettings": {
-            "suffix": " %"
+            "suffix": " %",
+            "barAxisTitle": "Percentage of countries"
           }
         }
       ],
@@ -68,6 +70,7 @@
     "valueColor": "#000",
     "topMargin": 48,
     "dataDownload": true,
+    "barAxisTitle": "Number of countries",
     "graphDownload": true,
     "graphTitle": "Number/percentage of countries for which external public total (AMT+INT) debt service exceeds 20% of revenue/exports and primary income (2000–2025)",
     "sources": [

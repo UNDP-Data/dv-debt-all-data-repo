@@ -25,14 +25,16 @@
           "value": ["2012-2014_n", "2022-2024_n"],
           "label": "Number of countries",
           "graphSettings": {
-            "suffix": ""
+            "suffix": "",
+            "barAxisTitle": "Number of countries"
           }
         },
         {
           "value": ["2012-2014_p", "2022-2024_p"],
           "label": "Percentage",
           "graphSettings": {
-            "suffix": " %"
+            "suffix": " %",
+            "barAxisTitle": "Percentage of countries"
           }
         }
       ],
@@ -54,6 +56,7 @@
     "backgroundColor": true,
     "graphTitle": "Number of countries with net interest payments higher than 5 to 40 percent of revenue today relative to a decade ago",
     "dataDownload": true,
+    "barAxisTitle": "Number of countries",
     "leftMargin": 48,
     "bottomMargin": 24,
     "noOfTicks": 8,

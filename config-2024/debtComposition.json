@@ -33,7 +33,7 @@
     "prefix": "$",
     "dataDownload": true,
     "bottomMargin": 24,
-    "tooltip": "<b>{{label}}</b></br>{{data.value_n}} USD million ({{data.value_p}}%)",
+    "tooltip": "<b>{{label}}</b></br>{{formatNumber data.value_n}} USD million ({{data.value_p}}%)",
     "legendMaxWidth": "712px",
     "sources": [
       {
