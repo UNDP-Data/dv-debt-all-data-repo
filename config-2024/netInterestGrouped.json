@@ -67,7 +67,7 @@
         "source": "Based on IMF World Economic Outlook, October 2024"
       }
     ],
-    "footNote": "{{{<p class='undp-viz-typography' style='font-size: 14px; color: #55606E; margin: 0;'>Note: Net interests are calculated as the difference between the overall and primary balance.  Percentage refers to the number of countries with net interest payments higher than 5 to 40 percent of revenue in proportion to all countries with available data within each year of reporting.</p>}}}",
-    "colorDomain": ["2012–2014", "2022–2024"]
+    "footNote": "{{{<p class='undp-viz-typography' style='font-size: 14px; color: #55606E; margin: 0;'>Note: Net interests are calculated as the difference between the overall and primary balance.  Percentage refers to the number of countries with net interest payments higher than 5 to 40 percent of revenue in proportion to all countries with available data within each year of reporting. Average values for the periods 2013-2015 and 2023-2025.</p>}}}",
+    "colorDomain": ["2013-2015", "2023-2025"]
   }
 }
